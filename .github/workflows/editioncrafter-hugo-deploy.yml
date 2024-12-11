@@ -31,15 +31,15 @@ jobs:
         run: sudo snap install dart-sass
 
     # setup editioncrafter
-    - name: Install EditionCrafter
-      run: npm install -g @cu-mkp/editioncrafter-cli
+      - name: Install EditionCrafter
+        run: npm install -g @cu-mkp/editioncrafter-cli
 
     # build minified hugo site
-    - name:
-      run: |
-        mkdir -p public/edition && \
-        editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /edition && \
-        hugo --minify
+      - name: Hugo Build
+        run: |
+          mkdir -p public/edition && \
+          editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /edition && \
+          hugo --minify
 
     # deploy
 
