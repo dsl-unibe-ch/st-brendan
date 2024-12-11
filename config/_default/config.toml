@@ -1,9 +1,9 @@
 # Basic metadata configuration for your blog.
 theme = "rtc"
-title = "EditionCrafter Hugo Project"
-author = "Columbia University"
-copyright = "Copyright © 2023, Columbia University"
-languageCode = "en-US"
+title = "St. Brendan-Projekt"
+author = "DSL"
+copyright = ""
+languageCode = "de-CH"
 
 # Generate robots.txt for SEO
 enableRobotsTXT = false

@@ -1,9 +1,10 @@
 name: Deploy to GitHub Pages
 
 on:
-  push:
-    branches:
-      - dev
+#  push:
+#    branches:
+#      - dev
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -14,7 +15,7 @@ jobs:
       - name: Checkout latest code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2

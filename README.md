@@ -1,9 +1,17 @@
-[![DOI](https://zenodo.org/badge/574679318.svg)](https://zenodo.org/badge/latestdoi/574679318)
+# st-brendan
 
-# editioncrafter-project
-This is the repository for websites containing EditionCrafter editions. It contains the stub markdown pages and navigation for the websites.
+This repository contains an experimental digital edition created in the course of a seminar at the Institute of Germanic Languages and Literatures in autumn/winter 2024/25.
 
-- Hugo website template
-- This can now be customized for content
-- Under “Folios,” there is the rendered TEI file of the manuscript
-- Took output of editioncrafter-cli and dropped into the dedicated directory of editioncrafter-project
+* main data file: [`st-brendan.xml`](st-brendan.xml)
+  * (parts of) this may be prepared using `editioncrafter-cli`; take care not to overwrite a file with uncommitted changes in the process
+* create assets for inclusion in the hugo page
+  ```bash
+  editioncrafter process -i st-brendan.xml -o content/edition -u /edition
+  ```
+* copy assets to content directory
+  ```bash
+  cp -r content/edition/st-brendan public/edition/
+  ```
+  (We should investigabe why the files are not being picked up by hugo and perhaps take a shortcut: 
+  `mkdir -p public/edition && editioncrafter process -i st-brendan.xml -o public/edition -u /edition && hugo`).
+* run `hugo` (or `hugo -b http://localhost:8000` for local development)

@@ -1,8 +1,8 @@
-name = "EditionCrafter"
-description = "The theme for the Making and Knowing Project's EditionCrafter"
+name = "StBrendan"
+description = "The theme for the St Brendan student edition"
 license = "MIT"
-licenselink = "https://github.com/cu-mkp/editioncrafter/blob/main/themes/rtc/LICENSE"
-homepage = "https://github.com/cu-mkp/editioncrafter"
+licenselink = ""
+homepage = ""
 tags = []
 features = []
 min_version = "0.41.0"

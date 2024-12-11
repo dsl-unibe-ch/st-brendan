@@ -1,0 +1,50 @@
+name: Create editioncrafter assets, and build and deploy hugo site
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    env:
+      HUGO_VERSION: 0.137.1
+
+    steps:
+
+    # repo checkout
+      - name: Checkout
+        uses: actions/checkout@v4
+
+    # install hugo
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
+
+    # setup editioncrafter
+    - name: Install EditionCrafter
+      run: npm install -g @cu-mkp/editioncrafter-cli
+
+    # build minified hugo site
+    - name:
+      run: |
+        mkdir -p public/edition && \
+        editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /edition && \
+        hugo --minify
+
+    # deploy
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload dist directory
+          path: 'public'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
