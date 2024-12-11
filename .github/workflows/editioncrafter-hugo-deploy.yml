@@ -38,7 +38,7 @@ jobs:
       - name: Hugo Build
         run: |
           mkdir -p public/edition && \
-          editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /edition && \
+          editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /st-brendan/edition && \
           hugo --minify
 
     # deploy
@@ -49,6 +49,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload dist directory
+          name: 'St-Brendan-edition'
           path: 'public'
       - name: Deploy to GitHub Pages
         id: deployment
