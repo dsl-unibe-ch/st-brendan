@@ -15,3 +15,7 @@ This repository contains an experimental digital edition created in the course o
   (We should investigabe why the files are not being picked up by hugo and perhaps take a shortcut: 
   `mkdir -p public/edition && editioncrafter process -i st-brendan.xml -o public/edition -u /edition && hugo`).
 * run `hugo` (or `hugo -b http://localhost:8000` for local development)
+
+## Github Pages deployment
+
+* run the [build and deploy action](https://github.com/dsl-unibe-ch/st-brendan/actions/workflows/editioncrafter-hugo-deploy.yml)
