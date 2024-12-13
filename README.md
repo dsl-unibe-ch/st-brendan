@@ -4,17 +4,11 @@ This repository contains an experimental digital edition created in the course o
 
 * main data file: [`st-brendan.xml`](st-brendan.xml)
   * (parts of) this may be prepared using `editioncrafter-cli`; take care not to overwrite a file with uncommitted changes in the process
-* create assets for inclusion in the hugo page
+* create assets for inclusion in the hugo page, and run hugo
   ```bash
-  editioncrafter process -i st-brendan.xml -o content/edition -u /edition
+  mkdir -p public/edition/st-brendan && editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /st-brendan/edition && hugo --minify
   ```
-* copy assets to content directory
-  ```bash
-  cp -r content/edition/st-brendan public/edition/
-  ```
-  (We should investigabe why the files are not being picked up by hugo and perhaps take a shortcut: 
-  `mkdir -p public/edition && editioncrafter process -i st-brendan.xml -o public/edition -u /edition && hugo`).
-* run `hugo` (or `hugo -b http://localhost:8000` for local development)
+  optionally supply a host/port using e.g. `hugo -b http://localhost:8000`
 
 ## Github Pages deployment
 
