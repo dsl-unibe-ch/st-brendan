@@ -37,10 +37,8 @@ jobs:
     # build minified hugo site
       - name: Hugo build
         run: |
-          mkdir -p content/edition && \
           mkdir -p public/edition/st-brendan && \
-          editioncrafter process -i ./st-brendan.xml -o ./content/edition -u /st-brendan/edition && \
-          mv ./content/edition/st-brendan/* public/edition/st-brendan/ && \
+          editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /st-brendan/edition && \
           hugo --minify
 
     # deploy
