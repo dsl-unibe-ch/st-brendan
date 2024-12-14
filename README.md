@@ -8,7 +8,10 @@ This repository contains an experimental digital edition created in the course o
   ```bash
   mkdir -p public/edition/st-brendan && editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /st-brendan/edition && hugo --minify
   ```
-  optionally supply a host/port using e.g. `hugo -b http://localhost:8000`
+  for local development (assuming a web server at port 8000):
+  ```bash
+  mkdir -p public/st-brendan/edition/st-brendan && editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /st-brendan/edition && cp -r public/edition public/st-brendan/ && hugo --minify -b http://localhost:8000
+  ```
 
 ## Github Pages deployment
 

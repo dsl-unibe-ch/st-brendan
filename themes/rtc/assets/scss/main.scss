@@ -10,6 +10,8 @@
 @import "components/resources";
 @import "components/toc";
 
+@import "../../../../st-brendan";
+
 html {
     scroll-behavior: smooth;
 }
@@ -23,21 +25,3 @@ body {
 main {
     flex: 1 0 auto;
 }
-
-/* ========== St. Brendan ==================== */
-
-tei-anchor {
-  display: block;
-  overflow: hidden;
-  text-indent: -100px;
-}
-
-tei-anchor::before {
-  content: attr(n);
-  position: absolute;
-  text-indent: 70px;
-  display: inline-block;
-}
-
-/* ========== St. Brendan (end) =============== */
-

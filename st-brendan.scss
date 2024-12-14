@@ -1,0 +1,26 @@
+/* ========== St. Brendan ==================== */
+
+tei-anchor {
+  display: block;
+  overflow: hidden;
+  text-indent: -100px;
+}
+
+tei-anchor::before {
+  content: attr(n);
+  position: absolute;
+  text-indent: 70px;
+  display: inline-block;
+}
+
+.editioncrafter .watermark_contents {
+  background-image: url("../folios/img/brendan0.png") !important;
+}
+
+/* workaround for reference markers (they have no @class) */
+tei-ab div span {
+  color: #792421 !important;
+  content: '*' !important;
+}
+
+ /* ========== St. Brendan (end) =============== */
