@@ -47,6 +47,9 @@ jobs:
       - name: Build site
         run: ./build.sh production
 
+      - name: Disable Jekyll
+        run: touch public/.nojekyll
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
