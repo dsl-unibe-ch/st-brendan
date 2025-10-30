@@ -1,2 +1,1 @@
-[Params]
-    baseurl = 'http://localhost:8000'
+baseurl = 'http://localhost:8000'

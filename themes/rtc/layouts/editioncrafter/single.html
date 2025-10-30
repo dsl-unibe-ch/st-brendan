@@ -2,7 +2,7 @@
 
     <div id="ec"></div>
 
-    <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd" ></script>
+    <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd"></script>
 
     <script type="text/javascript">
         var ec = EditionCrafter.viewer({
@@ -16,4 +16,8 @@
             }
         });
     </script>
+    
+    <!-- Load notes drawer after EditionCrafter -->
+    {{ $notesDrawerJS := resources.Get "js/notes-drawer.js" | resources.Minify | resources.Fingerprint }}
+    <script type="text/javascript" src="{{ $notesDrawerJS.Permalink }}"></script>
 {{ end }}

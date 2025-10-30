@@ -1,4 +1,4 @@
 # Base URL used when generating links to your pages
-canonifyURLs = true
-baseURL = "https://dsl-unibe-ch.github.io/st-brendan"
+baseURL = "https://dsl-unibe-ch.github.io/st-brendan/"
 #baseURL = "/"
+canonifyURLs = true

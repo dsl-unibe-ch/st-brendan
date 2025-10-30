@@ -1,5 +1,30 @@
 {{ define "main" }}
-<content class="homepage">
-    {{ .Content }}
-</content>
+<div class="homepage-container">
+    <div class="homepage-hero">
+        <div class="hero-content">
+            {{ if (fileExists "static/img/logo.png") }}
+            <div class="hero-logo">
+                <img src="/img/logo.png" alt="Brendan Logo" />
+            </div>
+            {{ end }}
+            
+            <h1 class="hero-title">{{ .Title }}</h1>
+            
+            {{ with .Params.subtitle }}
+            <p class="hero-subtitle">{{ . }}</p>
+            {{ end }}
+        </div>
+    </div>
+    
+    <div class="homepage-content">
+        <div class="content-wrapper">
+            {{ .Content }}
+            
+            <div class="homepage-cta">
+                <a href="/introduction/" class="btn-primary">Zur Einleitung</a>
+                <a href="/edition/" class="btn-secondary">Zur Edition</a>
+            </div>
+        </div>
+    </div>
+</div>
 {{ end }}

@@ -7,7 +7,7 @@
     <title>{{- block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{- end }}</title>
 
     <meta name="referrer" content="no-referrer-when-downgrade" />
-    {{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    {{ $style := resources.Get "scss/main.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
 

@@ -1,5 +1,10 @@
 /* ========== St. Brendan ==================== */
 
+.note-content {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
 tei-anchor {
   display: block;
   overflow: hidden;
@@ -9,18 +14,209 @@ tei-anchor {
 tei-anchor::before {
   content: attr(n);
   position: absolute;
-  text-indent: 70px;
+  text-indent: 60px;
   display: inline-block;
 }
 
 .editioncrafter .watermark_contents {
-  background-image: url("../folios/img/brendan0.png") !important;
+  background-image: url('../folios/img/brendan0.png') !important;
 }
 
 /* workaround for reference markers (they have no @class) */
 tei-ab div span {
   color: #792421 !important;
   content: '*' !important;
+}
+
+// st-brendan.scss
+// Custom styles for EditionCrafter-rendered TEI content
+
+// Basic text rendering styles
+tei-hi {
+    // Handle different @rend values
+    &[rend='bold'] {
+        font-weight: bold;
+    }
+    
+    &[rend='italic'] {
+        font-style: italic;
+    }
+    
+    &[rend='underline'] {
+        text-decoration: underline;
+    }
+    
+    &[rend='strikethrough'] {
+        text-decoration: line-through;
+    }
+    
+    &[rend='superscript'], &[rend='sup'] {
+        vertical-align: super;
+        font-size: 0.75em;
+    }
+    
+    &[rend='subscript'], &[rend='sub'] {
+        vertical-align: sub;
+        font-size: 0.75em;
+    }
+}
+
+// Emphasis elements
+tei-emph {
+    font-style: italic;
+}
+
+// Line breaks
+tei-lb {
+    &:after {
+        content: '\a';
+        white-space: pre;
+    }
+}
+
+// Page breaks
+//tei-pb {
+//    display: block;
+//    margin: 2em 0;
+//    padding: 0.5em;
+//    border-top: 2px solid #ccc;
+//    font-size: 0.9em;
+//    color: #666;
+//    
+//    &:before {
+//        content: '[ Seite ' attr(facs) ' ]';
+//    }
+//}
+
+// Paragraphs and text blocks
+tei-ab, tei-p {
+    display: block;
+    margin: 1em 0;
+    line-height: 1.6;
+}
+
+// Headers
+tei-head {
+    display: block;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin: 1.5em 0 0.5em 0;
+}
+
+// Lists
+tei-list {
+    display: block;
+    margin: 1em 0;
+}
+
+tei-item {
+    display: list-item;
+    margin-left: 2em;
+    list-style-type: disc;
+}
+
+// Names and references
+tei-name, tei-persName, tei-placeName {
+    font-weight: 500;
+    color: #792421;
+}
+
+// Quotes
+tei-q, tei-quote {
+    &:before {
+        content: '„';
+    }
+    
+    &:after {
+        content: '"';
+    }
+}
+
+// Foreign language
+tei-foreign {
+    font-style: italic;
+    color: #555;
+}
+
+// Deletions and additions (editorial markup)
+tei-del {
+    text-decoration: line-through;
+    color: #999;
+}
+
+tei-add {
+    color: #792421;
+    
+    &:before {
+        content: '⟨';
+    }
+    
+    &:after {
+        content: '⟩';
+    }
+}
+
+// Gaps in the text
+tei-gap {
+    &:before {
+        content: '[...]';
+        color: #999;
+        font-style: italic;
+    }
+}
+
+// Supplied text (editorial addition)
+tei-supplied {
+    color: #666;
+    
+    &:before {
+        content: '[';
+    }
+    
+    &:after {
+        content: ']';
+    }
+}
+
+// Choice elements (for alternate readings)
+tei-choice {
+    tei-sic {
+        display: none; // Hide the original incorrect form
+    }
+    
+    tei-corr {
+        // Show the corrected form
+        display: inline;
+    }
+}
+
+// Manuscript line numbers (anchors)
+tei-anchor[type='line-nr'] {
+    &:before {
+        content: attr(n);
+        display: inline-block;
+//        width: 2em;
+//        margin-left: -2.5em;
+        text-align: right;
+        color: #999;
+        font-size: 0.8em;
+        font-family: monospace;
+    }
+}
+
+// Special styling for the EditionCrafter viewer container
+#ec {
+    font-family: 'Martel', serif;
+    font-size: 1.1em;
+    line-height: 1.8;
+//    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em;
+    
+    @media (max-width: 768px) {
+        padding: 1em;
+        font-size: 1em;
+    }
 }
 
  /* ========== St. Brendan (end) =============== */

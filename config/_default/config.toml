@@ -1,12 +1,26 @@
 # Basic metadata configuration for your blog.
 theme = "rtc"
-title = "St. Brendan-Projekt"
+title = "Brandans Meerfahrt"
 author = "DSL"
-copyright = ""
+copyright = "CC BY NC SA 4.0"
 languageCode = "de-CH"
 
 # Generate robots.txt for SEO
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 # Set to "WARNING" so that broken links don't break the build process. Default is "ERROR".
 refLinksErrorLevel = "WARNING"
+
+# Disable unused Hugo features for faster builds
+disableKinds = ["taxonomy", "term"]
+
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "themes/rtc/static"
+    target = "static"

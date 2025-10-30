@@ -9,7 +9,7 @@
 @import "components/page";
 @import "components/resources";
 @import "components/toc";
-
+@import "components/notes-drawer";  // Add this line
 @import "../../../../st-brendan";
 
 html {
@@ -25,3 +25,22 @@ body {
 main {
     flex: 1 0 auto;
 }
+
+/* ========== St. Brendan ==================== */
+
+tei-anchor {
+  display: block;
+  overflow: hidden;
+  text-indent: -100px;
+}
+
+tei-anchor::before {
+  content: attr(n);
+  position: absolute;
+  text-indent: 70px;
+  display: inline-block;
+}
+
+/* Note: Original red asterisk styles are now overridden by notes-drawer.scss */
+
+/* ========== St. Brendan (end) =============== */
