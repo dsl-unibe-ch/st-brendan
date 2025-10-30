@@ -11,7 +11,7 @@ Maximilian Frey, Marigona Nazifi, Aurelia Schmoldt, Miriam Strieder
 
 ## Vorbemerkung
 
-Die kommentierte Übersetzung von *Brandans Meerfahrt* wäre durch die
+Die kommentierte Übersetzung von *Brandans Meerfahrt* wäre ohne die
 grosszügige Förderung der philosophisch-historischen Fakultät der
 Universität Bern im Herbstsemester 2024 im Format «Inspirierte Lehre«
 nicht möglich gewesen. Besonderer Dank gilt Frau Prof. Dr. Cristina
@@ -796,9 +796,9 @@ sich einerseits auf den Inhalt, andererseits auf bestimmte, editorische
 Eingriffe unsererseits, die besonders die Interpunktion betreffen. Die
 Verarbeitung dieser Übersetzung und der Kommentare in eine digitale
 Version wurde vom Data Science Lab der Universität Bern angefertigt und
-erfolgte im TEI-Publisher -- eine Einführung in dieses Programm konnte
-im Seminar nicht geleistet werden und war auch nicht als Lernziel
-definiert.
+erfolgte im <!-- TEI-Publisher-->EditionCrafter -- eine Einführung in 
+dieses Programm konnte im Seminar nicht geleistet werden und war auch 
+nicht als Lernziel definiert.
 
 Übersetzungsprozess
 
@@ -973,27 +973,30 @@ generiert werden.[^77]
 
 Wie bereits erwähnt, haben wir das Erstellen der digitalen Edition ans
 Data Science Lab (DSL) übergeben. Das DSL verarbeitet die erhaltenen
-Übersetzungen und Kommentare mithilfe  einer <!-- des TEI-Publishers. Dank der
-Unterstützung der Universität Bern kann die digitale Edition durch den
-TEI-Publisher 15 Jahre lang bestehen. Dieses Format ist eine zentrale
-Infrastruktur, die langfristig betrieben wird und ein praktisches
-Grundgerüst für eine digitale Edition bietet.[^78] -->angepassten Version des EditionCrafters.[^78] Mittels Hyperlinks
-können Leser des Textes auf die Verweise in den Kommentaren klicken und
-direkt zu ihnen gelangen. Die digitale Edition ermöglicht somit ein
-umfangreiches Rezipieren des Textes sowie einen erleichterten Zugang von
-unterschiedlichen Zugriffsorten.
+Übersetzungen und Kommentare mithilfe <!-- des TEI-Publishers. 
+Dank der Unterstützung der Universität Bern kann die digitale Edition 
+durch den TEI-Publisher 15 Jahre lang bestehen. Dieses Format ist eine 
+zentrale Infrastruktur, die langfristig betrieben wird und ein 
+praktisches Grundgerüst für eine digitale Edition bietet.[^78] -->
+einer angepassten Version des EditionCrafters.[^78] Mittels Hyperlinks können 
+Leser des Textes auf die Verweise in den Kommentaren klicken und direkt 
+zu ihnen gelangen. Die digitale Edition ermöglicht somit ein 
+umfangreiches Rezipieren des Textes sowie einen erleichterten Zugang 
+von unterschiedlichen Zugriffsorten.
 
 Schlussbemerkung
 
 Diese Ausgabe ist nicht als endgültiges, unveränderbares Endprodukt.
-Vielmehr bietet es eine Grundlage für weitere Arbeiten mit Software wie EditionCrafter oder dem TEI-Publisher[^79] und kann als Unterrichtsstoff in weiterführenden Schulen
-genutzt werden. Denn die Reise des Heiligen Brendan ist und bleibt eine
-kulturell wertvolle Erzählung. Sie lässt einen breiten
-Interpretationsspielraum zu und ist mit vielen anderen Texten verknüpft,
-wodurch sie durchaus attraktiv für wissenschaftliche Arbeiten ist.
-Unsere Edition soll zukünftigen Editor*innen, Rezipierenden,
-Schüler*innen und allen Interessierten als Inspirationsquelle für
-weiterführende Arbeiten und Ideen zu diesem Thema dienen.
+Vielmehr bietet es eine Grundlage für weitere Arbeiten mit Software 
+wie EditionCrafter oder dem TEI-Publisher[^79] und kann als 
+Unterrichtsstoff in weiterführenden Schulen genutzt werden. Denn die 
+Reise des Heiligen Brendan ist und bleibt eine kulturell wertvolle 
+Erzählung. Sie lässt einen breiten Interpretationsspielraum zu und 
+ist mit vielen anderen Texten verknüpft, wodurch sie durchaus attraktiv 
+für wissenschaftliche Arbeiten ist. Unsere Edition soll zukünftigen 
+Editor\*innen, Rezipierenden, Schüler\*innen und allen Interessierten 
+als Inspirationsquelle für weiterführende Arbeiten und Ideen zu diesem 
+Thema dienen.
 
 **Literaturverzeichnis**
 
