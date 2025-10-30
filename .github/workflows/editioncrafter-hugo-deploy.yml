@@ -1,55 +1,60 @@
 name: Create editioncrafter assets, and build and deploy hugo site
 
 on:
-  # Allows you to run this workflow manually from the Actions tab
+  push:
+    branches: ["main"]
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  run:
+  build-deploy:
     runs-on: ubuntu-latest
-
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
-
-    env:
-      HUGO_VERSION: 0.137.1
-
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-
-    # repo checkout
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
 
-    # install hugo
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
 
-    # setup editioncrafter
-      - name: Install EditionCrafter
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install EditionCrafter CLI
         run: npm install -g @cu-mkp/editioncrafter-cli
 
-    # build minified hugo site
-      - name: Hugo build
-        run: |
-          mkdir -p public/edition/st-brendan && \
-          editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /st-brendan/edition && \
-          hugo --minify
+      - name: Make build script executable
+        run: chmod +x build.sh
 
-    # deploy
+      - name: Build site
+        run: ./build.sh production
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v4
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'public'
-          
+          path: ./public
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
