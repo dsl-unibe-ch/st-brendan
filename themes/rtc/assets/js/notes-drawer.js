@@ -1,6 +1,6 @@
 /**
- * Interactive Notes Drawer for EditionCrafter - v2.7
- * Fixed context matching for notes with short preceding text
+ * Interactive Notes Drawer for EditionCrafter - v2.8
+ * Fixed base path for GitHub Pages deployment
  */
 
 (function() {
@@ -16,26 +16,23 @@
             this.currentFile = null;
             this.currentPageContent = '';
             this.pageChangeDebounce = null;
-            this.activeNoteKey = null; // Track currently active note
+            this.activeNoteKey = null;
             this.init();
         }
 
         init() {
-            console.log('=== Notes Drawer Init v2.7 ===');
+            console.log('=== Notes Drawer Init v2.8 ===');
             
             this.createDrawer();
             this.attachGlobalListeners();
             this.waitForEditionCrafter();
             
-            // Listen for hash changes from EditionCrafter
             window.addEventListener('hashchange', () => {
-                // Restore active note reference if it exists
                 if (this.activeNoteKey) {
                     this.updateURLWithNote(this.activeNoteKey, false);
                 }
             });
             
-            // Listen for popstate (back/forward buttons)
             window.addEventListener('popstate', () => {
                 this.checkForNoteInURL();
             });
@@ -137,7 +134,6 @@
             console.log(`   Removing ${previousMarkers.length} previous markers`);
             this.clearEnhancedMarkers();
             
-            // Clear active note since we changed pages
             this.activeNoteKey = null;
             
             setTimeout(() => {
@@ -232,9 +228,21 @@
             return 'f004.html';
         }
 
+        getBasePath() {
+            // Detect if we're on GitHub Pages or localhost
+            const path = window.location.pathname;
+            if (path.includes('/st-brendan/')) {
+                return '/st-brendan';
+            }
+            return '';
+        }
+
         async fetchNotesFromFile(filename) {
-            const url = `/edition/st-brendan/html/text/${filename}`;
+            const basePath = this.getBasePath();
+            const url = `${basePath}/edition/st-brendan/html/text/${filename}`;
             this.notesData = [];
+            
+            console.log(`   Fetching from: ${url}`);
             
             try {
                 const response = await fetch(url);
@@ -423,15 +431,12 @@
             const note = this.notesData.find(n => n.uniqueKey === noteKey);
             if (!note) return;
             
-            // Get current URL parts
             const hash = window.location.hash;
             const search = window.location.search;
             
-            // Build new search params
             const params = new URLSearchParams(search);
             params.set('note', note.id);
             
-            // Construct full URL with EditionCrafter's hash preserved
             const newURL = `${window.location.pathname}?${params.toString()}${hash}`;
             
             if (pushHistory) {
@@ -459,7 +464,6 @@
                     console.log('   Note not found or marker not ready yet');
                 }
             } else {
-                // No note parameter, clear active state
                 this.activeNoteKey = null;
             }
         }
@@ -475,7 +479,6 @@
                 return;
             }
             
-            // DEBUG: Show first note details
             if (this.notesData.length > 0) {
                 const firstNote = this.notesData[0];
                 console.log('📝 First note:', {
@@ -493,7 +496,6 @@
                 context: this.getMarkerContext(marker)
             }));
             
-            // DEBUG: Show first marker details
             if (markerContexts.length > 0) {
                 const firstMarker = markerContexts[0];
                 console.log('📍 First marker:', {
@@ -515,7 +517,6 @@
                     matchedNotes.add(match.note.uniqueKey);
                     successCount++;
                     
-                    // DEBUG: Show first few matches
                     if (markerInfo.index < 3) {
                         console.log(`   ✓ [${markerInfo.index}] → ${match.note.id} (score: ${match.score.toFixed(2)})`);
                     }
@@ -527,7 +528,6 @@
             console.log(`✓ Matched: ${successCount}/${markers.length}`);
             console.log(`✓ Notes matched: ${matchedNotes.size}/${this.notesData.length}`);
             
-            // DEBUG: Show unmatched notes
             const unmatchedNotes = this.notesData.filter(n => !matchedNotes.has(n.uniqueKey));
             if (unmatchedNotes.length > 0) {
                 console.warn('⚠️ Unmatched notes:', unmatchedNotes.map(n => ({
@@ -575,17 +575,14 @@
                 
                 const score = this.calculateContextSimilarity(markerContext, note.precedingContext);
                 
-                // SPECIAL CASE 1: If both contexts are very short (beginning of text)
                 if (markerContext.length < 10 && note.precedingContext.length < 10 && bestMatch === null) {
                     bestScore = 0.5;
                     bestMatch = note;
                 }
                 
-                // SPECIAL CASE 2: If marker context ends with note context (exact suffix match)
-                // This is very reliable even with low percentage match
                 if (markerContext.endsWith(note.precedingContext) && note.precedingContext.length >= 5) {
                     if (score > bestScore) {
-                        bestScore = Math.max(score, 0.35); // Boost to meet threshold
+                        bestScore = Math.max(score, 0.35);
                         bestMatch = note;
                     }
                 }
@@ -603,7 +600,6 @@
             if (!context1 || !context2) return 0;
             if (context1 === context2) return 1.0;
             
-            // Check if one context ends with the other (common case)
             if (context1.endsWith(context2)) {
                 return context2.length / context1.length;
             }
@@ -611,7 +607,6 @@
                 return context1.length / context2.length;
             }
             
-            // Check for overlap at the end of both strings
             const minLength = Math.min(context1.length, context2.length);
             let maxOverlap = 0;
             
