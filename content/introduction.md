@@ -59,7 +59,8 @@ Schöpfung und die Bibel anschaulich und unterhaltsam vermittelt[^2].
 
 Inhalt
 
-Die sog. Reisefassung der *Navigatio Sancti Brendani,* auch bekannt als *Brandans Meerfahrt,* unterscheidet sich von dieser insbesondere durch
+Die sog. Reisefassung der *Navigatio Sancti Brendani,* auch bekannt als 
+*Brandans Meerfahrt,* unterscheidet sich von dieser insbesondere durch
 eine Rahmenhandlung, mit der der Text beginnt und die zugleich dazu
 dient, den Protagonisten Brendan dem Lesepublikum vorzustellen:
 Leser*innen (bzw. zeitgenössisch vermutlich auch Hörer*innen) erfahren
@@ -115,10 +116,12 @@ einen Konnex annehmen.
 Im Laufe des Mittelalters wird die *Navigatio Sancti Brendani* sehr
 breit überliefert, was ein beredetes Zeugnis für die Relevanz des Stoffs
 ist, aber auch die Beliebtheit dieser Reiserzählung bezeugt. Zudem wird
-in den unterschiedlichen Bearbeitungen deutlich, dass die *Navigatio* immer wieder aktualisiert wurde, um eben jene Relevanz zu behalten.
+in den unterschiedlichen Bearbeitungen deutlich, dass die *Navigatio* 
+immer wieder aktualisiert wurde, um eben jene Relevanz zu behalten.
 Dementsprechend wird der Text auch von der sog. zweiten Medienrevolution
 erfasst und schafft den Sprung in den Druck, der bis ins 17. Jahrhundert
-hinein dafür sorgt, dass der Text verfügbar bleibt. Die *Navigatio* gewinnt mit den neuen technischen Möglichkeiten an Attraktivität, sodass
+hinein dafür sorgt, dass der Text verfügbar bleibt. Die *Navigatio* 
+gewinnt mit den neuen technischen Möglichkeiten an Attraktivität, sodass
 Illustrationen, die dem Text häufig beigegeben werden, da der Inhalt zu
 einer zeichnerischen Ausgestaltung geradezu einlädt, im Laufe der Zeit
 von Holzschnitten ersetzt werden, deren Vervielfältigung und Verbreitung
@@ -151,7 +154,8 @@ z.B. in Hafenstädten.
 
 Die zweite Stoffgruppe, die Reisefassung, zu der auch die kommentierte
 Übersetzung auf der Basis des von Schröder hergestellten Texts basiert,
-weist ungefähr zu 50% inhaltliche Überschneidungen mit der *Navigatio* auf. Sie wird vermutlich ab 1150 überliefert und hat wohl einen
+weist ungefähr zu 50% inhaltliche Überschneidungen mit der *Navigatio* 
+auf. Sie wird vermutlich ab 1150 überliefert und hat wohl einen
 mittelfränkischen Ursprung. Sie liegt in fünf Versionen vor[^11] und
 soll im Folgenden näher beschrieben werden.
 
@@ -163,7 +167,8 @@ Erzählungen um Brendans Seereise nehmen verschiedenste Quellen und
 Einflüsse auf. An prominentester Stelle stehen dabei Bibeltexte. Die
 Anspielungen umfassen besonders bekannte Bücher wie den Psalter,
 Pentateuch und die Evangelien, aber auch apokryphe Texte. Zudem greift
-die Reiseerzählung auf (früh-)mittelalterliches Wissen zurück wie es der *Physiologus* überliefert, irische Erzählungen verarbeiten und wie es in
+die Reiseerzählung auf (früh-)mittelalterliches Wissen zurück wie es der 
+*Physiologus* überliefert, irische Erzählungen verarbeiten und wie es in
 kartographischen Darstellungen vermittelt wird. Zudem verweist die
 Reiseerzählung auf *exempla*, die teilweise schon von den
 frühchristlichen Kirchenlehrern entwickelt wurden, und kolportiert
@@ -189,7 +194,7 @@ mittelniederdeutschen Texte thematisch eng beieinander stehen. Am
 häufigsten ist aus dieser Stoffgruppe tatsächlich die oberdeutsche
 Prosafassung des Textes überliefert.
 
-![](/img/stemma.png)
+![Stemma der gereimten Reisefassung M](/img/stemma.png)
 
 Für die hier bearbeitete Fassung M gilt festzuhalten, dass sie ins 14.
 Jahrhundert zu datieren ist, was sich besonders an sprachlichen
@@ -301,23 +306,30 @@ Verfasser hin.[^23] Laut Weidner ist die Entstehung der *Navigatio* in
 den frühen iroschottischen Klöstern wahrscheinlich, wenngleich eine
 eindeutige Lokalisierung bis heute nicht möglich ist.[^24]
 
-Der Zusammenhang zwischen der *Navigatio* und der irischen Erzählgattung *immrama* ist hingegen offensichtlich. Der Begriff *immrama* wird mit
+Der Zusammenhang zwischen der *Navigatio* und der irischen Erzählgattung 
+*immrama* ist hingegen offensichtlich. Der Begriff *immrama* wird mit
 «Herumrudern» übersetzt und bezieht sich auf Erzählungen von Seereisen,
-die in der irischen Literatur häufig vorkommen. Swank beschreibt den *immram* als eine Gattung, in der der Schwerpunkt auf einer
+die in der irischen Literatur häufig vorkommen. Swank beschreibt den 
+*immram* als eine Gattung, in der der Schwerpunkt auf einer
 ausgedehnten, abenteuerlichen Seereise liegt, anstatt auf den
 Erlebnissen eines Sterblichen an einem einzigen, übernatürlichen Ort.
 Der Protagonist einer solchen *immram* ist häufig ein Büssender oder
-Pilger.[^25] In der *Navigatio* sind, wie in den meisten erhaltenen *immrama*, viele speziell keltische Motive schwer zu identifizieren,
+Pilger.[^25] In der *Navigatio* sind, wie in den meisten erhaltenen 
+*immrama*, viele speziell keltische Motive schwer zu identifizieren,
 obwohl der Ethos des Werkes unverkennbar keltisch ist. Dies führt zur
-Frage nach dem Ursprung der *immrama*. Viele Episoden in den *immrama* haben Ursprünge, die nicht als keltisch bezeichnet werden können, und
+Frage nach dem Ursprung der *immrama*. Viele Episoden in den *immrama* 
+haben Ursprünge, die nicht als keltisch bezeichnet werden können, und
 hängen eher von anderen Sammelwerken ab, die letztlich aus dem Wissen
-der klassischen Antike stammen. Die *Navigatio* und andere *immrama* zeigen, wie kirchliche Einflüsse das Genre prägten. Diese kirchliche
+der klassischen Antike stammen. Die *Navigatio* und andere *immrama* 
+zeigen, wie kirchliche Einflüsse das Genre prägten. Diese kirchliche
 Prägung und die Verwendung klassischen Wissens sind Hinweise auf den
-theologischen Hintergrund dieser Erzähltradition. Die Gattung der *immrama* verbindet also heidnische Ursprünge mit einer christlichen
+theologischen Hintergrund dieser Erzähltradition. Die Gattung der 
+*immrama* verbindet also heidnische Ursprünge mit einer christlichen
 Lesart, wobei der Einfluss klassischer und kirchlicher Quellen die
 Entwicklung dieses Genres massgeblich beeinflusste.[^26]
 
-Weiter lässt sich die Gattung der *echtrai* in der *Navigatio* erkennen. *Echtrai*, am besten mit «Abenteuer» oder «Ausflug» übersetzt, umfasst
+Weiter lässt sich die Gattung der *echtrai* in der *Navigatio* erkennen. 
+*Echtrai*, am besten mit «Abenteuer» oder «Ausflug» übersetzt, umfasst
 Erzählungen, die von besonderen Reisen und Prüfungen berichten. Diese
 Abenteuererzählungen beinhalten oft das Motiv einer utopischen
 Anderwelt, in der der Held aussergewöhnliche Entdeckungen macht -- ein
@@ -325,7 +337,8 @@ Thema, das auch in der *Navigatio* Anklang findet. In diesen Erzählungen
 können heidnische Gottheiten und andere keltische Weltwesen problemlos
 und ohne Unstimmigkeiten agieren. Das zentrale Thema bleibt stets
 dasselbe: Der Held wird auf eine Reise in das Jenseits oder eine andere
-Dimension, die sog. Anderwelt, gezogen, wobei das Umfeld der *echtrai* grösstenteils heidnisch geprägt ist. Besonders die Darstellung der
+Dimension, die sog. Anderwelt, gezogen, wobei das Umfeld der *echtrai* 
+grösstenteils heidnisch geprägt ist. Besonders die Darstellung der
 Inseln in der *Navigatio* reflektiert diese Vorstellungen der Anderwelt,
 die in vielen irischen Erzählungen dieser Gattung zu finden sind.[^27]
 
@@ -528,7 +541,8 @@ keltisch-christlichen Formen des Martyriums hin.
 
 #### Schlussbemerkung
 
-Die Gestalt des heiligen Brendan und die *Navigatio Sancti Brendani* stehen beispielhaft für die enge Verbindung von historischer Realität
+Die Gestalt des heiligen Brendan und die *Navigatio Sancti Brendani* 
+stehen beispielhaft für die enge Verbindung von historischer Realität
 und literarischer Imagination im Mittelalter. Als Abt, Missionar und
 Heiliger verkörpert Brendan die Ideale der Christianisierung Irlands wie
 auch der iroschottischen Missionsbewegung, die sowohl asketische Hingabe
@@ -845,21 +859,21 @@ Abänderung der Interpunktion aussieht, wird anhand des folgenden
 Beispiels erläutert. In den ersten 16 Versen der *Meerfahrt* erwähnt der
 Erzähler eine Geschichte aus der Bibel:
 
-> Der heilige geist durch sîne gûte***,***
+> Der heilige geist durch sîne gûte,
 > 
 > Der einer eselinne
 > 
 > Gab sô getâne sinne
 > 
-> Daz sie menschlîchen [sprach]{.underline}
+> Daz sie menschlîchen <span style="text-decoration:underline">sprach</span>
 > 
 > Dô sie den engel vor ihr sach
 > 
-> Mit einem vüerigen swerte***,***
+> Mit einem vüerigen swerte,
 > 
-> Dô sie sich sôhin kêrte***,***
+> Dô sie sich sôhin kêrte,
 > 
-> Daz tet sie hern Balam kunt***,***[^70]
+> Daz tet sie hern Balam kunt,[^70]
 > 
 > Der heilige Geist in seiner Güte
 > 
@@ -867,7 +881,7 @@ Erzähler eine Geschichte aus der Bibel:
 > 
 > Sinn, dass sie wie ein Mensch
 > 
-> [sprach*:*]{.underline} Als sie den Engel mit [Unterstreichung A.S.]
+> <span style="text-decoration:underline">sprach:*</span> Als sie den Engel mit [Unterstreichung A.S.]
 > 
 > einem feurigen Schwert vor sich
 > 
@@ -877,7 +891,8 @@ Erzähler eine Geschichte aus der Bibel:
 
 Wir entschieden uns, nach dem im Zitat unterstrichenen Wort einen
 Doppelpunkt einzusetzen, da sich die Stelle während des Lesens als
-holprig erwies. Ein weiterer Interpunktionsentscheid fiel in V.4 der *Meerfahrt*, in dem wir den mittelhochdeutschen Teilsatz «Crist erlûhte
+holprig erwies. Ein weiterer Interpunktionsentscheid fiel in V.4 
+der *Meerfahrt*, in dem wir den mittelhochdeutschen Teilsatz «Crist erlûhte
 mînes herzen ougen» wie folgt übersetzten: «Christus erleuchte meines
 Herzens Sicht»[^72](Ebd.). Dazu wurde ein Kommentar verfasst, in dem unsere
 editorischen Entscheidungen festgehalten und Alternativen dazu
@@ -956,10 +971,9 @@ Sensibilisierung für das eigene Übersetzen sichergestellt werden konnte
 und zugleich ein gesundes 'Misstrauen' gegenüber Übersetzungen im
 Allgemeinen aufgebaut werden kann.
 
-Die digitale Edition
+#### Die digitale Edition
 
-##### «Digitale Editionen machen historische Dokumente für ein breites
-
+«Digitale Editionen machen historische Dokumente für ein breites 
 (wissenschaftliches) Publikum verfügbar und bilden damit die Basis für
 weitere Untersuchungen.»[^75] Dieses Zitat zeigt die Funktion einer
 digitalen Edition, die auch unsere Edition erfüllen soll. Editionen
