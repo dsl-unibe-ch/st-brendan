@@ -865,7 +865,7 @@ Erzähler eine Geschichte aus der Bibel:
 > 
 > Gab sô getâne sinne
 > 
-> Daz sie menschlîchen <span style="text-decoration:underline">sprach</span>
+> Daz sie menschlîchen **sprach**
 > 
 > Dô sie den engel vor ihr sach
 > 
@@ -881,7 +881,7 @@ Erzähler eine Geschichte aus der Bibel:
 > 
 > Sinn, dass sie wie ein Mensch
 > 
-> <span style="text-decoration:underline">sprach:*</span> Als sie den Engel mit [Unterstreichung A.S.]
+> **sprach:** Als sie den Engel mit [Hervorhebung A.S.]
 > 
 > einem feurigen Schwert vor sich
 > 
