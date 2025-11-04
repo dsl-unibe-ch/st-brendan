@@ -863,8 +863,8 @@
                     <lb/>sprach der Weise Gottes.
                     <lb/><anchor type="line-nr" n="330"/>Aus dem heiligen Paradies,
                     <lb/>immer zur Mittagszeit,
-                    <lb/><note n="332"><hi rend="bold">tûbe</hi>: Die Taube hat eine Vielzahl an Bedeutungen in der Bibel. Die weisse Taube als Sinnbild für den heiligen Geist zählt
-    zu den bekanntesten Motiven, welche unter anderem an der Taufe Jesu erscheint (Vgl. Mat. 3,16).</note>brachte eine Taube ohne Klage
+                    <lb/>brachte eine Taube<note n="332"><hi rend="bold">tûbe</hi>: Die Taube hat eine Vielzahl an Bedeutungen in der Bibel. Die weisse Taube als Sinnbild für den heiligen Geist zählt
+                        zu den bekanntesten Motiven, welche unter anderem an der Taufe Jesu erscheint (Vgl. Mat. 3,16).</note> ohne Klage
                     <lb/>viereinhalb Semmel und einen Fisch,<note n="333"><hi rend="bold">vierdhalbe semele und ein visch</hi>: Die viereinhalb Semmel, sprich das Brot, könnten auf das <emph>Passamahl</emph>
                         referieren, bei dem Jesus sein Brot in Stücke bricht. Das Brot symbolisiert hierbei den <emph>Leib Christi</emph> (vgl. Luk. 22,19). Der Fisch ist ein
                         frühchristliches Symbol, welches aus den griechischen Buchstaben ἰχθύς<emph>, ichthys</emph> als Abkürzung Jesus Christus’ diente. Vgl. <ref target="https://bibelwissenschaft.de/stichwort/18389/">https://bibelwissenschaft.de/stichwort/18389/</ref> [08.12.2024]</note>
@@ -1313,14 +1313,20 @@
                     <lb/><anchor type="line-nr" n="645"/>Du sollst mir keinen Schmerz verursachen.
                     <lb/>Ja, hier sind heute viele Menschen gestorben,
                     <lb/>von denen mir nicht mehr zu Teil geworden sind,
-                    <lb/><!--TODO: two notes--><note n="648"><hi rend="bold">drî</hi>: Die Zahl Drei steht für die Dreifaltigkeit Gottes und gilt als heilig. Vgl. Miranda Bruce-Mitford: Zeichen und
-    Symbole: Ihre Geschichte und Bedeutung. München 2020. S. 294.</note><!--TODO: two notes-->ausser drei Himmelskinder».
+                    <lb/>ausser drei<note n="648_1"><hi rend="bold">drî</hi>: Die Zahl Drei steht für die Dreifaltigkeit Gottes und gilt als heilig. Vgl. Miranda Bruce-Mitford: Zeichen und
+                        Symbole: Ihre Geschichte und Bedeutung. München 2020. S. 294.</note> Himmelskinder».<note n="648_2"><hi rend="bold">drî himelkint</hi>: Hier wird der Bezug zu der Bibelgeschichte von Lot und seiner Familie hergestellt (Gen. 19,1-29). Lot, der
+                            seine gerechte Seele täglich quält, lebt mit seiner Frau und seinen Kindern in Sodom. Die Städte Sodom und Gomorra sind jedoch voller ungerechter,
+                            sündhafter Seelen und Gott will die Städte deshalb samt Einwohner niederbrennen. Dafür sendet er zwei Engel nach Sodom, die nach Gerechten suchen, die vor
+                            der Zerstörung gerettet werden sollen. Nur Lot und seiner Familie, seiner Frau und seinen zwei Töchtern, wird die Flucht ermöglicht. Dies zeigt genau
+                            dasselbe Phänomen auf, wie im Kampf um die Seelen. Der Grossteil wird zurückgelassen bzw. dem Schicksal überlassen und nur vier Menschen (Lot und seine
+                            Familie) bzw. drei Seelen (drei Himmelskinder) werden mitgenommen. Dies zeigt sehr klar, dass der Weg in die Hölle um einiges einfacher ist als der Weg in
+                            den Himmel. Vgl. <ref target="https://www.die-bibel.de/bibel/GNB/GEN.19">https://www.die-bibel.de/bibel/GNB/GEN.19</ref> [19.12.2024].</note>
                     <lb/>Dem Teufel befahl er danach sich zurückzuziehen 
                     <lb/><anchor type="line-nr" n="650"/>und in die Hölle zu fliehen.
                     <lb/>Danach wurde ein Lied<note n="651-652"><hi rend="bold">ein sanc gesungen</hi> / <hi rend="bold">von engelischen zungen</hi>: s. <!-- insert ref -->Kommentar zu V. 809. In dieser
                         Stelle werden die 12 Chöre, die später erläutert werden, eventuell schon angedeutet.</note> 
                     <lb/>von Engelsstimmen gesungen.
-                    <lb/>Sie führten die drei<note n="653"><hi rend="bold">drî</hi>: s. <!-- insert ref -->Kommentar zu V. 648.</note> Seelen
+                    <lb/>Sie führten die drei<note n="653"><hi rend="bold">drî</hi>: s. <ref target="/st-brendan/edition/?note=648_1#/ec/f018/f/f018/text">Kommentar zu V. 648</ref>.</note> Seelen
                     <lb/>mit Sankt Michael
                     <lb/><anchor type="line-nr" n="655"/>in den Schoss unseren Herrn Gottes.
                     <lb/>Die Klage von Sankt Brendan wurde sehr gross,
@@ -1347,8 +1353,8 @@
                     <lb/>aufgrund dessen stirbt mancher Mensch.
                     <lb/>Eifrig befahlen sie sich Gott.
                     <lb/>Die Seeleute<note n="668"><hi rend="bold">die meister</hi>: Dieses Lexem wird im Lexer unter anderem mit «Lehrer, Magister, Gelehrter» übersetzt, was für eine Hierarchie
-                        unter den Mönchen sprechen kann. Es wird auf jeden Fall klar, dass es eine Arbeitsaufteilung auf dem Schiff gibt. Wie schon zuvor erwähnt (s. <!-- insert ref -->Kommentar
-                        zu V. 590), ist Brendan als Abt definitiv der Hierarchiehöchste. Es könnte jedoch auch sein, dass sich Laien als Seeleute auf dem Schiff
+                        unter den Mönchen sprechen kann. Es wird auf jeden Fall klar, dass es eine Arbeitsaufteilung auf dem Schiff gibt. Wie schon zuvor erwähnt (s. <ref target="/st-brendan/edition/?note=590#/ec/f016/f/f016/text">Kommentar
+                        zu V. 590</ref>), ist Brendan als Abt definitiv der Hierarchiehöchste. Es könnte jedoch auch sein, dass sich Laien als Seeleute auf dem Schiff
                         befinden und aufgrund dessen die Mönchen einen anderen Status haben und hier als «meister» bezeichnet werden. Ob es sich wirklich um eine Hierarchie unter
                         den Mönchen handelt oder ob mitunter Laien an Bord sind und deshalb eine andere Dynamik herrscht, wird nicht klar ersichtlich. Vgl. <ref target="https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=M01056">https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=M01056</ref> [19.12.2024].</note> am Steuer
                     <lb/>vergassen sich selbst
@@ -1462,8 +1468,8 @@
                     <lb/>tragen würde.
                     <lb/>Das würde mir schwer auf dem Herzen lasten.»
                     <lb/>Sie schuldeten ihm Gehorsam
-                    <lb/><note n="768"><hi rend="bold">und wurfen wâges halbe în</hi>: Die Stelle bleibt dunkel, die die Übersetzung stützenden Zirkumflexe bei <emph>wâges</emph> und
-      <emph>în</emph> sind nicht zwingend.</note>Und warfen sich halb in die Wellen hinein, 
+                    <lb/>Und warfen sich halb in die Wellen hinein,<note n="768"><hi rend="bold">und wurfen wâges halbe în</hi>: Die Stelle bleibt dunkel, die die Übersetzung stützenden Zirkumflexe bei <emph>wâges</emph> und
+                        <emph>în</emph> sind nicht zwingend.</note>
                     <lb/>als sie das Schiff dorthin wendeten, 
                     <lb/><anchor type="line-nr" n="770"/>wo ihm der Hut herabgefallen war.
                     <lb/>Da sahen sie jede Menge Teufel, 
@@ -1481,13 +1487,13 @@
                     <lb/><anchor type="line-nr" n="780"/>Sie flohen und verzagten, 
                     <lb/>dass man sie nicht mehr sah, 
                     <lb/>weil er einen Psalm sprach, 
-                    <lb/><note n="783"><hi rend="bold">deus misereatur nostri</hi>: Der Beginn des Psalms 67, der schon in der frühchristlichen Liturgie eine wichtige Rolle spielt und
-    auch heute noch, zumindest in der protestantischen Kirche, in der Form eines Segens häufige Verwendung findet.</note>der da heisst <hi rend="italic">deus misereatur nostri</hi>.
+                    <lb/>der da heisst <hi rend="italic">deus misereatur nostri</hi>.<note n="783"><hi rend="bold">deus misereatur nostri</hi>: Der Beginn des Psalms 67, der schon in der frühchristlichen Liturgie eine wichtige Rolle spielt und
+                        auch heute noch, zumindest in der protestantischen Kirche, in der Form eines Segens häufige Verwendung findet.</note>
                     <lb/>Der Teufel traut sich da
                     <lb/><anchor type="line-nr" n="785"/>keinen Augenblick zu verweilen, 
-                    <lb/><note n="786"><hi rend="bold">gelesen</hi>: Es scheint, als würde der in V. 783 aufgerufene Psalm als generelles Mittel gegen den Teufel beschrieben werden.
-    Bemerkenswert ist zudem, dass davon die Rede ist, dass der Psalm gelesen wird, also nicht auswendig von Laien hergesagt wird, sondern durch einen Priester
-    oder anderen Offizianten aus einem Buch vorgelesen werden soll, um gegen den Teufel zu wirken.</note>wo dieser Psalm gelesen wird. 
+                    <lb/>wo dieser Psalm gelesen<note n="786"><hi rend="bold">gelesen</hi>: Es scheint, als würde der in V. 783 aufgerufene Psalm als generelles Mittel gegen den Teufel beschrieben werden.
+                        Bemerkenswert ist zudem, dass davon die Rede ist, dass der Psalm gelesen wird, also nicht auswendig von Laien hergesagt wird, sondern durch einen Priester
+                        oder anderen Offizianten aus einem Buch vorgelesen werden soll, um gegen den Teufel zu wirken.</note> wird. 
                     <lb/>Danach fand der Herr in guter Stimmung
                     <lb/>seinen Kugelhut wieder, 
                     <lb/>ganz in der Nähe des Berges, der brannte. 
@@ -1512,15 +1518,15 @@
                 <ab>
                     <lb/>Danach sah Sankt Brendan, der heilige Mann, 
                     <lb/>eine Burg stehen
-                    <lb/><note n="809"><hi rend="bold">zwelf kôre</hi>: Aufgrund der merkwürdigen Verquickung von Architektur (die Burg im vorigen Vers) und Gottes Allmacht in V. 811
-    ist hier nicht ganz klar, ob man sich Chöre im Sinne von singenden (Engels-)Scharen vorzustellen hat oder aber ein architektonisches Merkmal der Burg, das
-    diese singenden Scharen fasst. Die heilsgeschichtliche Bedeutung der Zahl zwölf ist durch die zwölf Stämme Israels und, daraus abgeleitet, die zwölf Jünger
-    Jesu belegt. Bemerkenswert ist, dass normalerweise von neun hierarchischen Stufen der Engel die Rede ist – zwölf Engelschöre und damit auch hierarchische
-    Stufen scheint auf eine theologische Diskussion zu verweisen, die Eingang in die Darstellung gefunden hat. So erläutert Wirth: »Nachdem Origenes ([…] Migne,
-    P. G. 11, Sp. 157) die Unvollständigkeit der Aufzählung in den Paulusbriefen erkannt hatte, begann man die n.t. Angaben mit Hilfe des Henochbuches zu
-    ergänzen und kam dabei – z.T. deshalb, weil man Seraphim und Cherubim als Synonyma für Throne und Tugenden ansah (Gregor von Nyssa, Contra Eunom. 1: ebd.
-    Bd. 45, Sp. 348) oder Erzengel und Tugenden gleichsetzte (Augustinus, Enchir. 58: Migne, P. L. 40, Sp. 259), – zu sieben, acht, neun, zehn oder zwölf
-    E[ngelchören].« Vgl. Karl-August Wirth: Engelchöre. In: Publikation der Forschungsstelle Realienkunde, abrufbar unter <ref target="https://www.rdklabor.de/wiki/Engelch%C3%B6re">https://www.rdklabor.de/wiki/Engelch%C3%B6re</ref> [31.12.2024]</note>und darinnen zwölf Chöre, 
+                    <lb/>und darinnen zwölf Chöre,<note n="809"><hi rend="bold">zwelf kôre</hi>: Aufgrund der merkwürdigen Verquickung von Architektur (die Burg im vorigen Vers) und Gottes Allmacht in V. 811
+                        ist hier nicht ganz klar, ob man sich Chöre im Sinne von singenden (Engels-)Scharen vorzustellen hat oder aber ein architektonisches Merkmal der Burg, das
+                        diese singenden Scharen fasst. Die heilsgeschichtliche Bedeutung der Zahl zwölf ist durch die zwölf Stämme Israels und, daraus abgeleitet, die zwölf Jünger
+                        Jesu belegt. Bemerkenswert ist, dass normalerweise von neun hierarchischen Stufen der Engel die Rede ist – zwölf Engelschöre und damit auch hierarchische
+                        Stufen scheint auf eine theologische Diskussion zu verweisen, die Eingang in die Darstellung gefunden hat. So erläutert Wirth: »Nachdem Origenes ([…] Migne,
+                        P. G. 11, Sp. 157) die Unvollständigkeit der Aufzählung in den Paulusbriefen erkannt hatte, begann man die n.t. Angaben mit Hilfe des Henochbuches zu
+                        ergänzen und kam dabei – z.T. deshalb, weil man Seraphim und Cherubim als Synonyma für Throne und Tugenden ansah (Gregor von Nyssa, Contra Eunom. 1: ebd.
+                        Bd. 45, Sp. 348) oder Erzengel und Tugenden gleichsetzte (Augustinus, Enchir. 58: Migne, P. L. 40, Sp. 259), – zu sieben, acht, neun, zehn oder zwölf
+                        E[ngelchören].« Vgl. Karl-August Wirth: Engelchöre. In: Publikation der Forschungsstelle Realienkunde, abrufbar unter <ref target="https://www.rdklabor.de/wiki/Engelch%C3%B6re">https://www.rdklabor.de/wiki/Engelch%C3%B6re</ref> [31.12.2024]</note>
                     <lb/><anchor type="line-nr" n="810"/>die niemand zerstören konnte 
                     <lb/>als Gott allein. 
                     <lb/>Es stand keinem sterblichen Menschen an, 
@@ -1529,22 +1535,22 @@
                     <lb/><anchor type="line-nr" n="815"/>die Geheimnisse des gütigen Gottes, 
                     <lb/>weil er sie mit eigenen Augen gesehen hatte. 
                     <lb/>Da bat der gute Herr 
-                    <lb/><note n="818"><hi rend="bold">einvaldigem</hi>: Die Einfalt im Sinne einer kindlichen, unschuldigen Naivität als Tugend (<emph>sancta simplicitas</emph>) wird
-    hier und in V. 894 aufgerufen; hier charakterisiert sie Brendan selbst, der zuvor noch in empirischer Weise die Geheimnisse Gottes im wahrsten Sinne des
-    Wortes in Augenschein genommen hat. Im Folgenden wird sie dann dem Gotteskind auf dem Grassoden zugeschrieben, das zusammen mit seinen Brüdern für Sankt
-    Brendan bei Gott interveniert, damit dieser seine Reise gefahrlos übersteht. Brendan ist also in mehrfacher Hinsicht als einfältig zu bezeichnen, zum einen
-    weil er die Geheimnisse Gottes mit eigenen Augen sehen muss, um sie zu glauben (negative Einfalt, Agnostizismus), und zum anderen weil ihm bis zur Begegnung
-    mit dem Gotteskind auf dem Grassoden gar nicht bewusst ist, dass andere für ihn bei Gott bitten (neutrale Einfalt). Die positive Einfalt im oben
-    beschriebenen Sinne fehlt dem skeptischen Heiligen.</note>mit einfältigem Herzen, 
+                    <lb/>mit einfältigem<note n="818"><hi rend="bold">einvaldigem</hi>: Die Einfalt im Sinne einer kindlichen, unschuldigen Naivität als Tugend (<emph>sancta simplicitas</emph>) wird
+                        hier und in V. 894 aufgerufen; hier charakterisiert sie Brendan selbst, der zuvor noch in empirischer Weise die Geheimnisse Gottes im wahrsten Sinne des
+                        Wortes in Augenschein genommen hat. Im Folgenden wird sie dann dem Gotteskind auf dem Grassoden zugeschrieben, das zusammen mit seinen Brüdern für Sankt
+                        Brendan bei Gott interveniert, damit dieser seine Reise gefahrlos übersteht. Brendan ist also in mehrfacher Hinsicht als einfältig zu bezeichnen, zum einen
+                        weil er die Geheimnisse Gottes mit eigenen Augen sehen muss, um sie zu glauben (negative Einfalt, Agnostizismus), und zum anderen weil ihm bis zur Begegnung
+                        mit dem Gotteskind auf dem Grassoden gar nicht bewusst ist, dass andere für ihn bei Gott bitten (neutrale Einfalt). Die positive Einfalt im oben
+                        beschriebenen Sinne fehlt dem skeptischen Heiligen.</note> Herzen, 
                 </ab>
                 <pb facs="#f022"/>
                 <ab>
                     <lb/>unseren ewigen Retter, 
                     <lb/><anchor type="line-nr" n="820"/>der ihm oft zur Hilfe gekommen war, 
                     <lb/>dass er ihm umgehend guten Segelwind
-                    <lb/><note n="822"><hi rend="bold">Schottenlant</hi>: Welche Motivation Brendan hat, nach Schottland zu segeln, lässt der Text offen. Dass es insbesondere an der
-    Westküste des heutigen Schottland Ortsnamen gibt, die auf den Heiligen Brendan verweisen, ist bereits in der Einleitung dargelegt worden. Für weitere
-    Informationen vgl. u.a. Alistair Moffat: Islands of the Evening. Journeys to the Edge of the World. Edinburgh 2023.</note>nach Schottland gäbe. 
+                    <lb/>nach Schottland<note n="822"><hi rend="bold">Schottenlant</hi>: Welche Motivation Brendan hat, nach Schottland zu segeln, lässt der Text offen. Dass es insbesondere an der
+                        Westküste des heutigen Schottland Ortsnamen gibt, die auf den Heiligen Brendan verweisen, ist bereits in der Einleitung dargelegt worden. Für weitere
+                        Informationen vgl. u.a. Alistair Moffat: Islands of the Evening. Journeys to the Edge of the World. Edinburgh 2023.</note> gäbe. 
                     <lb/>Das Wetter wurde unzuverlässig, 
                     <lb/>da trieb das Schiff dahin, 
                     <lb/><anchor type="line-nr" n="825"/>ein starker Westwind erhob sich, 
@@ -1562,12 +1568,12 @@
                     <lb/>Nahrung für die Fische bereitstellen könne. 
                     <lb/>«Gott ist so mächtig, 
                     <lb/>dass er sie wohl speisen kann», 
-                    <lb/><note n="840"><hi rend="bold">permint</hi>: Bei der Beladung des Schiffs lässt Brendan als Gelehrter offensichtlich auch Schreibmaterialien an Bord bringen,
-    um die Reise, ganz im Sinne eines wissenschaftlichen Experiments, zu dokumentieren. Er beginnt mit seinen Aufzeichnungen an dieser Stelle und lässt dafür
-    die Reise auch unterbrechen. In V. 843 wird das Beschreibmaterial weiter verdeutlicht: Brendan hat schon fertig gebundenen Bücher an Bord bringen lassen,
-    die er nun nur noch mit den Erlebnissen der Reise füllen muss. Dass er dabei das verbrannte Buch wieder herstellt, wird im Text nicht deutlich
-    gemacht.</note><anchor type="line-nr" n="840"/>sprach Brendan, der Weise Gottes. 
-                    <lb/>Er befahl, dass man ihm Pergament suchte, 
+                    <lb/><anchor type="line-nr" n="840"/>sprach Brendan, der Weise Gottes. 
+                    <lb/>Er befahl, dass man ihm Pergament<note n="841"><hi rend="bold">permint</hi>: Bei der Beladung des Schiffs lässt Brendan als Gelehrter offensichtlich auch Schreibmaterialien an Bord bringen,
+                        um die Reise, ganz im Sinne eines wissenschaftlichen Experiments, zu dokumentieren. Er beginnt mit seinen Aufzeichnungen an dieser Stelle und lässt dafür
+                        die Reise auch unterbrechen. In V. 843 wird das Beschreibmaterial weiter verdeutlicht: Brendan hat schon fertig gebundenen Bücher an Bord bringen lassen,
+                        die er nun nur noch mit den Erlebnissen der Reise füllen muss. Dass er dabei das verbrannte Buch wieder herstellt, wird im Text nicht deutlich
+                        gemacht.</note> suchte, 
                     <lb/>damit er in den Büchern 
                     <lb/>die grossen Wunder aufzeichnen könne. 
                     <lb/>Den Seemann bat er ausserdem, 
@@ -1578,9 +1584,9 @@
                     <lb/>Von dannen trieb sie der Wind. 
                 </ab>
                 <ab>
-                    <lb/><note n="850"><hi rend="bold">gotes kint</hi>: Der hier erwähnte Eremit, dessen Heiligkeit schon dadurch deutlich wird, dass er sich auf einem Grassoden
-    aufhalten kann, ohne im Wasser zu versinken, gehört ebenso wie der Klausner aus V. 364-426 einer Ordensbruderschaft an, die durch Gebete immer wieder
-    positiven Einfluss auf Brendans Reise nimmt.</note><anchor type="line-nr" n="850"/>Da trafen sie auf ein Gotteskind, 
+                    <lb/><anchor type="line-nr" n="850"/>Da trafen sie auf ein Gotteskind,<note n="850"><hi rend="bold">gotes kint</hi>: Der hier erwähnte Eremit, dessen Heiligkeit schon dadurch deutlich wird, dass er sich auf einem Grassoden
+                        aufhalten kann, ohne im Wasser zu versinken, gehört ebenso wie der Klausner aus V. 364-426 einer Ordensbruderschaft an, die durch Gebete immer wieder
+                        positiven Einfluss auf Brendans Reise nimmt.</note>
                     <lb/>das auf dem Wasser schwebte
                     <lb/>und durch die Gnade Gottes lebte. 
                     <lb/>Auf seiner Grassode sass es da, 
@@ -1604,9 +1610,9 @@
                     <lb/>Zu dem Herrn Brendan:
                     <lb/>«Gott hat mich mit Nahrung
                     <lb/><anchor type="line-nr" n="870"/>us dem herrlichen Paradies 
-                    <lb/><note n="871"><hi rend="bold">ein und zwenzic jâr</hi>: Eine genaue Bedeutung der Zahl lässt sich nicht ermitteln. Es könnte sich um einen Ausdruck für ‚sehr
-    viele Jahre‘, im Sinne von ‚mehr als zwanzig Jahre‘ handeln, aber es ist auch möglich, dass die Multiplikation von sieben und drei als heiligen Zahlen der
-    Trinität und der Vollkommenheit auf den vollkommenen Lebenswandel des Eremiten auf der Grassode hinweisen.</note>Einundzwanzig Jahre lang versorgt.
+                    <lb/>Einundzwanzig Jahre<note n="871"><hi rend="bold">ein und zwenzic jâr</hi>: Eine genaue Bedeutung der Zahl lässt sich nicht ermitteln. Es könnte sich um einen Ausdruck für ‚sehr
+                        viele Jahre‘, im Sinne von ‚mehr als zwanzig Jahre‘ handeln, aber es ist auch möglich, dass die Multiplikation von sieben und drei als heiligen Zahlen der
+                        Trinität und der Vollkommenheit auf den vollkommenen Lebenswandel des Eremiten auf der Grassode hinweisen.</note> lang versorgt.
                     <lb/>In seinen Gnaden will ich leben
                     <lb/>und seinen Geboten folgen. 
                     <lb/>Ich habe noch mehr Brüder. 
@@ -1630,10 +1636,10 @@
                     <lb/>Und leben ganz auf christliche Art.»
                     <lb/>Darauf antwortet ihm der Gute
                     <lb/>Mit einfältiger Gesinnung:
-                    <lb/><note n="895"><hi rend="bold">Narrasîn</hi>: Der Ortsname muss ungeklärt bleiben. Aufgrund lautlicher Nähe ließe sich evtl. eine Verschreibung von
-      <emph>Nazareth</emph> annehmen, aber die folgende Untergangserzählung will nicht zur sonstigen Geschichte des Ortes passen. Es könnte auch anzunehmen
-    sein, dass es sich um eine Anspielung auf eine untergegangene Stadt handelt, wie sie auch im Mittelalter kursierten, zum Beispiel über das sog. verlorene
-    Königreich von Lyonesse, Rungholt etc.</note><anchor type="line-nr" n="895"/>«Eine Stadt, die heisst Narrasin, 
+                    <lb/><anchor type="line-nr" n="895"/>«Eine Stadt, die heisst Narrasin,<note n="895"><hi rend="bold">Narrasîn</hi>: Der Ortsname muss ungeklärt bleiben. Aufgrund lautlicher Nähe ließe sich evtl. eine Verschreibung von
+                        <emph>Nazareth</emph> annehmen, aber die folgende Untergangserzählung will nicht zur sonstigen Geschichte des Ortes passen. Es könnte auch anzunehmen
+                        sein, dass es sich um eine Anspielung auf eine untergegangene Stadt handelt, wie sie auch im Mittelalter kursierten, zum Beispiel über das sog. verlorene
+                        Königreich von Lyonesse, Rungholt etc.</note>
                     <lb/>in der wir im Kloster sein sollten, 
                     <lb/>die lag in einem Land, 
                     <lb/>wo niemand an Gott glaubte. 
@@ -1653,9 +1659,9 @@
                 <pb facs="#f024"/>
                 <ab>
                     <lb/>als das ganze Land versank, 
-                    <lb/>in welchem Sodom und Gomorra untergingen,
-                    <lb/><note n="913"><hi rend="bold">Sôdoma und Gomorra</hi>: Sodom und Gomorra sind Orte der Sünde im Alten Testament, die von Gott durch eine Flut zerstört wurden.
-    Sie sollen im Gebiet des Toten Meeres gelegen haben. Vgl. <ref target="https://bibelwissenschaft.de/stichwort/29019/">https://bibelwissenschaft.de/stichwort/29019/</ref> [15.12.2024].</note>da teilte sich dieser Boden
+                    <lb/>in welchem Sodom und Gomorra<note n="912"><hi rend="bold">Sôdoma und Gomorra</hi>: Sodom und Gomorra sind Orte der Sünde im Alten Testament, die von Gott durch eine Flut zerstört wurden.
+                        Sie sollen im Gebiet des Toten Meeres gelegen haben. Vgl. <ref target="https://bibelwissenschaft.de/stichwort/29019/">https://bibelwissenschaft.de/stichwort/29019/</ref> [15.12.2024].</note> untergingen,
+                    <lb/>da teilte sich dieser Boden
                     <lb/>mit Kräutern und Gras
                     <lb/><anchor type="line-nr" n="915"/>ganz vom Erdreich.
                     <lb/>Diesen bebaue ich rechtmässig 
@@ -1663,7 +1669,7 @@
                     <lb/>Dass uns Gott zusammen 
                     <lb/>in seine Herrlichkeit eingehen lassen möge!
                     <lb/><anchor type="line-nr" n="920"/>In weite Ferne sollst du kehren,
-                    <lb/><note n="921"><hi rend="bold">michel wunder</hi>: S. Verse 21 – 43.</note>da findest du grosse Wunder.»
+                    <lb/>da findest du grosse Wunder.»<note n="921"><hi rend="bold">michel wunder</hi>: S. <ref target="/st-brendan/edition/#/ec/f004/f/f004/text">Verse 21 – 43</ref>.</note>
                     <lb/>Ein Wind erhob sich währenddessen,
                     <lb/>der sie voneinander trug.
                     <lb/>In kurzer Zeit
@@ -1684,35 +1690,35 @@
                     <lb/>Da sah Sankt Brendan 
                     <lb/>einen nackten Mann
                     <lb/>in Jammer allein 
-                    <lb/><note n="940"><hi rend="bold">glûenden steine</hi>: Im Jesaja 6, 6-7 wird ein glühender Kohlestein beschrieben, den ein Engel dem Propheten an die Lippen
-    hält, wodurch er von seiner Schuld gereinigt wird. Hier stellt der glühende Stein ebenfalls ein Mittel dar, durch welches Judas Busse tut, um so Reinigung
-    zu erfahren. Vgl. Jes. 6, 6-7.</note><anchor type="line-nr" n="940"/>auf einem glühenden Stein sitzen,
+                    <lb/><anchor type="line-nr" n="940"/>auf einem glühenden Stein<note n="940"><hi rend="bold">glûenden steine</hi>: Im Jesaja 6, 6-7 wird ein glühender Kohlestein beschrieben, den ein Engel dem Propheten an die Lippen
+                        hält, wodurch er von seiner Schuld gereinigt wird. Hier stellt der glühende Stein ebenfalls ein Mittel dar, durch welches Judas Busse tut, um so Reinigung
+                        zu erfahren. Vgl. Jes. 6, 6-7.</note> sitzen,
                     <lb/>der den grossen Zorn Gottes erduldete.
-                    <lb/><note n="942-945">Im <emph>Passional</emph> wird beschrieben, dass Judas’ Seele nicht durch seinen Mund entweichen kann, weil er zuvor Jesus geküsst hat und
-    sein Mund dadurch gesegnet ist. Also kann seine Seele nicht in die Hölle übergehen, sondern befindet sich in einem Zwischenstadium zwischen Himmel und
-    Hölle, in dem er Qualen erleidet. Vgl. Annegret Haase, Martin Schubert und Jürgen Wolf (Hgg.): Matthias. In: Deutsche Texte des Mittelalters. Passional:
-    Buch II: Apostellegenden. Berlin 2013. S. 989 – 1014.</note>Eine Seite war ihm vor Kälte so erfroren,
+                    <lb/>Eine Seite war ihm vor Kälte so erfroren,
                     <lb/>dass sich das Fleisch von den Knochen schälte.
                     <lb/>Auf der anderen Seite des Steines
-                    <lb/><anchor type="line-nr" n="945"/>war ihm so heiss, dass er brannte.
+                    <lb/><anchor type="line-nr" n="945"/>war ihm so heiss, dass er brannte.<note n="942-945">Im <emph>Passional</emph> wird beschrieben, dass Judas’ Seele nicht durch seinen Mund entweichen kann, weil er zuvor Jesus geküsst hat und
+                        sein Mund dadurch gesegnet ist. Also kann seine Seele nicht in die Hölle übergehen, sondern befindet sich in einem Zwischenstadium zwischen Himmel und
+                        Hölle, in dem er Qualen erleidet. Vgl. Annegret Haase, Martin Schubert und Jürgen Wolf (Hgg.): Matthias. In: Deutsche Texte des Mittelalters. Passional:
+                        Buch II: Apostellegenden. Berlin 2013. S. 989 – 1014.</note>
                     <lb/>Keinen weiteren Schutz hat er bekommen,
-                    <lb/><note n="947"><hi rend="bold">wîzez twelelîn</hi>: In der Bibel sowie in den Apokryphen findet sich keine Situation, in der Judas Jesus explizit ein weisses
-    Tuch stiehlt. Jedoch galt im Mittelalter die Farbe weiss für die Reinheit des Glaubens und Heiligkeit. Insofern kann das weisse Tüchlein auch als Symbol für
-    die Hoffnung auf Gnade Gottes und eine minimale Linderung seiner Schuld gedeutet werden. Vgl. Mihai-D. Grigore: «Weisse Pilger, rote Verdammte: Farben und
-    Heilsordnungen am Beispiel der mittelalterlichen Hagiografie». In: Farbe im Mittelalter, hg. von Ingrid Bennewitz und Andrea Schindler. Berlin 2011. S. 681
-    – 692.</note>als ein weisses Handtüchlein,
+                    <lb/>als ein weisses Handtüchlein,<note n="947"><hi rend="bold">wîzez twelelîn</hi>: In der Bibel sowie in den Apokryphen findet sich keine Situation, in der Judas Jesus explizit ein weisses
+                        Tuch stiehlt. Jedoch galt im Mittelalter die Farbe weiss für die Reinheit des Glaubens und Heiligkeit. Insofern kann das weisse Tüchlein auch als Symbol für
+                        die Hoffnung auf Gnade Gottes und eine minimale Linderung seiner Schuld gedeutet werden. Vgl. Mihai-D. Grigore: «Weisse Pilger, rote Verdammte: Farben und
+                        Heilsordnungen am Beispiel der mittelalterlichen Hagiografie». In: Farbe im Mittelalter, hg. von Ingrid Bennewitz und Andrea Schindler. Berlin 2011. S. 681
+                        – 692.</note>
                     <lb/>welches er stets fest vor sich hielt
                     <lb/>und damit die Hitze wegschlug.
                     <lb/><anchor type="line-nr" n="950"/>Ein Hagelschauer fiel gerade auf ihn, 
                     <lb/>der heiss und kalt war.
                     <lb/>Sein Jammer war gross.
-                    <lb/>Doch war ihm so in jeder Samstagnacht
-                    <lb/><note n="954"><hi rend="bold">sûnnabendes</hi>: Sonnabend bezeichnet den sechsten Wochentag. Durch die angelsächsische Mission wird der Begriff für den
-    ‘Vorabend des Sonntags’ auf den gesamten Tag vor Sonntag ausgeweitet. Vgl. <ref target="https://www.dwds.de/wb/Sonnabend">Sonnabend – Schreibung,
-      Definition, Bedeutung, Etymologie, Synonyme, Beispiele | DWDS</ref> [18.12.2024]. Dass Judas ausgerechnet in der Samstagnacht Gnade erfährt, ist analog
-    mit der Ostergeschichte zu verstehen, in der die Nacht vor dem Ostersonntag und damit vor der Auferstehung Jesu als besonders heilig gilt.</note>Ruhe gewährt
-                    <lb/><note n="955"><hi rend="bold">nône</hi>: Die neunte Stunde wird ab sechs Uhr morgens gerechnet und bezeichnet die Mittagszeit. Vgl. <ref target="https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=N01316">Wörterbuchnetz</ref> [14.12.2024]. Zur neunten Stunde starb Jesus laut Mar.
-    15,34.</note><anchor type="line-nr" n="955"/>bis zur neunten Stunde des Sonntages:
+                    <lb/>Doch war ihm so in jeder Samstagnacht<note n="953"><hi rend="bold">sûnnabendes</hi>: Sonnabend bezeichnet den sechsten Wochentag. Durch die angelsächsische Mission wird der Begriff für den
+                        ‘Vorabend des Sonntags’ auf den gesamten Tag vor Sonntag ausgeweitet. Vgl. <ref target="https://www.dwds.de/wb/Sonnabend">Sonnabend – Schreibung,
+                            Definition, Bedeutung, Etymologie, Synonyme, Beispiele | DWDS</ref> [18.12.2024]. Dass Judas ausgerechnet in der Samstagnacht Gnade erfährt, ist analog
+                        mit der Ostergeschichte zu verstehen, in der die Nacht vor dem Ostersonntag und damit vor der Auferstehung Jesu als besonders heilig gilt.</note>
+                    <lb/>Ruhe gewährt
+                    <lb/><anchor type="line-nr" n="955"/>bis zur neunten Stunde<note n="955"><hi rend="bold">nône</hi>: Die neunte Stunde wird ab sechs Uhr morgens gerechnet und bezeichnet die Mittagszeit. Vgl. <ref target="https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=N01316">Wörterbuchnetz</ref> [14.12.2024]. Zur neunten Stunde starb Jesus laut Mar.
+                        15,34.</note> des Sonntages:
                     <lb/>Dann kamen viele hässliche Teufel
                 </ab>
                 <pb facs="#f025"/>
@@ -1725,43 +1731,43 @@
                     <lb/>So fragte er den Armen,
                     <lb/>wer er gewesen sei.
                     <lb/>Da sprach der Sünder:
-                    <lb/><note n="965"><hi rend="bold">Judas</hi>: s. <!-- insert ref -->Kommentar zu V. 40.</note><anchor type="line-nr" n="965"/>«Ich bin es, der arme Judas,
+                    <lb/><anchor type="line-nr" n="965"/>«Ich bin es, der arme Judas,<note n="965"><hi rend="bold">Judas</hi>: s. <!-- insert ref -->Kommentar zu V. 40.</note>
                     <lb/>der für immer untreu war,
                     <lb/>als ich den verkaufte,
-                    <lb/><note n="968"><hi rend="bold">der sich durch uns toufte</hi>: Hierbei handelt es sich um eine Anspielung auf Jesus, der im Matthäus 3,13-17 von Johannes dem
-    Täufer im Jordan getauft wurde, vgl. Mt. 3,13-17, und zugleich durch seinen Kreuzestod auch die Sünden der Welt auf sich nahm und somit die Menschheit
-    reinwusch.</note>der sich für uns taufte.
+                    <lb/>der sich für uns taufte.<note n="968"><hi rend="bold">der sich durch uns toufte</hi>: Hierbei handelt es sich um eine Anspielung auf Jesus, der im Matthäus 3,13-17 von Johannes dem
+                        Täufer im Jordan getauft wurde, vgl. Mt. 3,13-17, und zugleich durch seinen Kreuzestod auch die Sünden der Welt auf sich nahm und somit die Menschheit
+                        reinwusch.</note>
                     <lb/>Deswegen habe ich sehr gebüsst:
-                    <lb/><note n="970"><hi rend="bold">mîne sunde û</hi>z <hi rend="bold">der mâ</hi>z<hi rend="bold">en grô</hi>z<hi rend="bold"/>: s. <!-- insert ref -->Kommentar
-    zu V. 40.</note><anchor type="line-nr" n="970"/>Als mich meine masslos grosse Sünde 
+                    <lb/><anchor type="line-nr" n="970"/>Als mich meine masslos grosse Sünde<note n="970"><hi rend="bold">mîne sunde û</hi>z <hi rend="bold">der mâ</hi>z<hi rend="bold">en grô</hi>z<hi rend="bold"/>: s. <!-- insert ref -->Kommentar
+                        zu V. 40.</note> 
                     <lb/>hätte reuen sollen,
                     <lb/>deretwegen ich Gott verliess,
                     <lb/>geriet ich in Zweifel:
                     <lb/>Mir riet der Teufel,
-                    <lb/><note n="975"><hi rend="bold">tôt</hi>: Dass sich Judas schließlich selbst tötet, ist tatsächlich eine vergleichbar große, wenn nicht sogar größere Sünde als
-    der Verrat an Jesus: Judas gibt sich vollends der <emph>desperatio</emph> hin und ist damit in Gottesferne gerückt. Er kann nicht mehr an die Allmacht und
-    damit auch Gnade Gottes glauben und ist deshalb nicht mehr erlösungsfähig.</note><anchor type="line-nr" n="975"/>dass ich mich selbst töten sollte.
+                    <lb/><anchor type="line-nr" n="975"/>dass ich mich selbst töten<note n="975"><hi rend="bold">tôt</hi>: Dass sich Judas schließlich selbst tötet, ist tatsächlich eine vergleichbar große, wenn nicht sogar größere Sünde als
+                        der Verrat an Jesus: Judas gibt sich vollends der <emph>desperatio</emph> hin und ist damit in Gottesferne gerückt. Er kann nicht mehr an die Allmacht und
+                        damit auch Gnade Gottes glauben und ist deshalb nicht mehr erlösungsfähig.</note> sollte.
                     <lb/>Deswegen bin ich immer gezwungen zu leiden.
                     <lb/>Hätte ich Reue gehabt,
                     <lb/>Gott ist so treu, er hätte mich rasch empfangen.
                     <lb/><anchor type="line-nr" n="980"/>Doch so wird mir nie Abhilfe gewährt.
-                    <lb/>Doch durch des heiligen Sonnabends Kraft
-                    <lb/><note n="981"><hi rend="bold">hoên sunnâbendes craft</hi>: s. <!-- insert ref -->Kommentar zu V. 954.</note>kommt es mir vor, als sei er mir freundlich gesinnt.
+                    <lb/>Doch durch des heiligen Sonnabends<note n="980"><hi rend="bold">hoên sunnâbendes craft</hi>: s. <!-- insert ref -->Kommentar zu V. 954.</note> Kraft
+                    <lb/>kommt es mir vor, als sei er mir freundlich gesinnt.
                     <lb/>Könnte ich die Pein hier lange tragen,
                     <lb/>ich würde niemals klagen.
                     <lb/><anchor type="line-nr" n="985"/>Jedoch ist es hier oben gut, 
                     <lb/>denn schlimmer geht es mir
                     <lb/>in der bodenlosen Hölle,
-                    <lb/>wo ich mich in Pech wälze.
-                    <lb/><note n="988"><hi rend="bold">in dem peche welle</hi>: Pech und Rauch sind nach mittelalterlichem Glauben Bestandteil der Hölle. Vgl. B. Deneke, 'Hölle, II.
-    Volksglaube', in <emph>Lexikon des Mittelalters</emph>, 10 vols (Stuttgart: Metzler, [1977]-1999), vol. 5, cols 96-97, in <emph>Brepolis Medieval
-      Encyclopaedias - Lexikon des Mittelalters Online</emph> [18.12.2024].</note>Dort wartet die Hitze auf mich,
+                    <lb/>wo ich mich in Pech wälze.<note n="988"><hi rend="bold">in dem peche welle</hi>: Pech und Rauch sind nach mittelalterlichem Glauben Bestandteil der Hölle. Vgl. B. Deneke, 'Hölle, II.
+                        Volksglaube', in <emph>Lexikon des Mittelalters</emph>, 10 vols (Stuttgart: Metzler, [1977]-1999), vol. 5, cols 96-97, in <emph>Brepolis Medieval
+                            Encyclopaedias - Lexikon des Mittelalters Online</emph> [18.12.2024].</note>
+                    <lb/>Dort wartet die Hitze auf mich,
                     <lb/><anchor type="line-nr" n="990"/>in der ein breiter und grosser Berg
                     <lb/>innerhalb eines Wimpernschlages
-                    <lb/><note n="991"><hi rend="bold">stêlin</hi>: Stahl war im Mittelalter ein begehrtes Handelsprodukt, aus dem u.a. viele Waffen geschmiedet wurden. Die Gewinnung
-    von Stahl im Mittelalter war sehr aufwendig, da der Stahl einen bestimmten Gehalt an Kohlenstoff aufweisen musste, damit er gut geschmiedet werden konnte
-    und nicht spröde war. Erreicht wurde dies durch die Härtung von Eisen, welches man in Wasser abschreckte. Vgl. <ref target="https://apps.brepolis.net/lexiema/test/Default2.aspx">BREPOLiS: LexMA / IEMA</ref> [19.12.2024]. Dementsprechend ist Stahl hier als Steigerung von
-    Eisen zu verstehen.</note>schmelzen würde, auch wenn er aus Stahl wäre.
+                    <lb/>schmelzen würde, auch wenn er aus Stahl<note n="991"><hi rend="bold">stêlin</hi>: Stahl war im Mittelalter ein begehrtes Handelsprodukt, aus dem u.a. viele Waffen geschmiedet wurden. Die Gewinnung
+                        von Stahl im Mittelalter war sehr aufwendig, da der Stahl einen bestimmten Gehalt an Kohlenstoff aufweisen musste, damit er gut geschmiedet werden konnte
+                        und nicht spröde war. Erreicht wurde dies durch die Härtung von Eisen, welches man in Wasser abschreckte. Vgl. <ref target="https://apps.brepolis.net/lexiema/test/Default2.aspx">BREPOLiS: LexMA / IEMA</ref> [19.12.2024]. Dementsprechend ist Stahl hier als Steigerung von
+                        Eisen zu verstehen.</note> wäre.
                     <lb/>Schlimmer als das Leid,
                     <lb/>welches ich hier habe,
                     <lb/><anchor type="line-nr" n="995"/>sind mir die Sorgen,
@@ -2979,23 +2985,23 @@
                     <lb/>
                     <lb/><anchor type="line-nr" n="1835"/>So sprach Sankt Brendan 
                     <lb/>und blickte mit diesen Worten zum Himmel hinauf:
-                    <lb/><note n="1837-1838"><hi rend="bold">got herre, ich bevele dir den man den ich vor dem paradîse verlorn hân.</hi> s. <!-- insert ref -->Kommentar zu V.
-    542.</note>«Herrgott, ich lege den Mann,
-                    <lb/>den ich vor dem Paradies verloren habe, in deine Hände.
+                    <lb/>«Herrgott, ich lege den Mann,
+                    <lb/>den ich vor dem Paradies verloren habe, in deine Hände.<note n="1837-1838"><hi rend="bold">got herre, ich bevele dir den man den ich vor dem paradîse verlorn hân.</hi> s. <!-- insert ref --><ref target="/st-brendan/edition/?note=542#/ec/f015/f/f015/text">Kommentar zu V.
+                        542</ref>.</note>
                     <lb/>Gebiete ohne Zweifel, dass er 
-                    <lb/><note n="1840"><hi rend="bold">blîbe mit dem himelischen her.</hi>: Gemeint ist hier die Heerschar von Engel, bei welcher der verlorene Mönch sein weiteres
-    Dasein fristen soll.</note><anchor type="line-nr" n="1840"/>beim himmlischen Heer verbleibe.
-                    <lb/><note n="1841"><hi rend="bold">dîne heiligen namen drîe</hi>: Der Vater ist wahrer Gott, der Sohn ist wahrer Gott, der Heilige Geist ist wahrer Gott; und
-    Vater, Sohn und Heiliger Geist sind voneinander verschiedene Personen. Dennoch sind Vater, Sohn und Heiliger Geist nicht drei wahre Götter, sondern nur ein
-    wahrer Gott. Vgl. Ludwig, Neidhart: Biblische Trinitätslehre und Christologie. Augsburg 2017. S. 23<hi rend="bold">.</hi> Abrufbar unter: <ref target="https://www.ludwig-neidhart.de/Downloads/TrinitaetslehreChristologie.pdf">https://www.ludwig-neidhart.de/Downloads/TrinitaetslehreChristologie.pdf</ref> Ob es sich um eine Anspielung auf die Erläuterungen des Hl. Patrick zur
-    Trinität handelt oder aber eine Referenz auf den als Häresie verworfenen Arianismus, muss offen bleiben.</note>Die Heilige Dreieinigkeit,
+                    <lb/><anchor type="line-nr" n="1840"/>beim himmlischen Heer verbleibe.<note n="1840"><hi rend="bold">blîbe mit dem himelischen her.</hi>: Gemeint ist hier die Heerschar von Engel, bei welcher der verlorene Mönch sein weiteres
+                        Dasein fristen soll.</note>
+                    <lb/>Die Heilige Dreieinigkeit,<note n="1841"><hi rend="bold">dîne heiligen namen drîe</hi>: Der Vater ist wahrer Gott, der Sohn ist wahrer Gott, der Heilige Geist ist wahrer Gott; und
+                        Vater, Sohn und Heiliger Geist sind voneinander verschiedene Personen. Dennoch sind Vater, Sohn und Heiliger Geist nicht drei wahre Götter, sondern nur ein
+                        wahrer Gott. Vgl. Ludwig, Neidhart: Biblische Trinitätslehre und Christologie. Augsburg 2017. S. 23<hi rend="bold">.</hi> Abrufbar unter: <ref target="https://www.ludwig-neidhart.de/Downloads/TrinitaetslehreChristologie.pdf">https://www.ludwig-neidhart.de/Downloads/TrinitaetslehreChristologie.pdf</ref> Ob es sich um eine Anspielung auf die Erläuterungen des Hl. Patrick zur
+                        Trinität handelt oder aber eine Referenz auf den als Häresie verworfenen Arianismus, muss offen bleiben.</note>
                     <lb/>möge uns hier beistehen.»
                     <lb/>Sehr innig bat er darum.
                     <lb/>Da trat er an das Schiff
                     <lb/><anchor type="line-nr" n="1845"/>und befahl seinen Schiffsleuten
-                    <lb/><note n="1846-1847"><hi rend="bold">alle in gotes namen gan und die rîmen binden</hi>: Brendan lässt die Ruder zusammenbinden, um Gott zu zeigen, dass er sich
-    vollends in seine Hände begibt. Dies ist nach dem Segeln mit dem Wind und dem Verlust der Anker der letzte Schritt zur vollständigen Gottergebenheit.</note>alles in Gottes Namen laufen zu lassen 
-                    <lb/>und die Ruder hochzunehmen. 
+                    <lb/>alles in Gottes Namen laufen zu lassen 
+                    <lb/>und die Ruder hochzunehmen.<note n="1846-1847"><hi rend="bold">alle in gotes namen gan und die rîmen binden</hi>: Brendan lässt die Ruder zusammenbinden, um Gott zu zeigen, dass er sich
+                        vollends in seine Hände begibt. Dies ist nach dem Segeln mit dem Wind und dem Verlust der Anker der letzte Schritt zur vollständigen Gottergebenheit.</note> 
                     <lb/>Er liess die Segel ganz hoch
                     <lb/>auf den Mast setzen.
                     <lb/><anchor type="line-nr" n="1850"/>Von der Sonne kam ein Strahl,
@@ -3003,8 +3009,8 @@
                     <lb/>denn sie gewannen guten Wind.
                     <lb/>So fuhren sie unermüdlich weiter
                     <lb/>und kamen zu einer Strömung,
-                    <lb/><note n="1855"><hi rend="bold">dô alle wazzere zûsamne gân und sich aber von einander lân</hi>: Ob es sich hierbei um einen Verweis auf 1. Mose 2,10-14
-    handelt, wo die vier Paradiesflüsse beschrieben werden, muss offen bleiben.</note><anchor type="line-nr" n="1855"/>wo alle Wasser zusammenflossen
+                    <lb/><anchor type="line-nr" n="1855"/>wo alle Wasser zusammenflossen<note n="1855"><hi rend="bold">dô alle wazzere zûsamne gân und sich aber von einander lân</hi>: Ob es sich hierbei um einen Verweis auf 1. Mose 2,10-14
+                        handelt, wo die vier Paradiesflüsse beschrieben werden, muss offen bleiben.</note>
                     <lb/>und sich aber wieder voneinander trennten.
                     <lb/>Da sahen sie einen Felsen,
                     <lb/>der schien breit und lang zu sein:
@@ -3016,19 +3022,19 @@
                     <lb/>durch das die Herren alle hineingingen.
                     <lb/><anchor type="line-nr" n="1865"/>Da sahen die heiligen Männer
                     <lb/>einen schönen Altar
-                    <lb/><note n="1867-1868"><hi rend="bold">und ein kelch darûf stân, oben ein patêne hân</hi>: Neben dem Kelch (<emph>calix</emph>) zur Aufnahme des Weins und der
-    dazu passend gefertigten Hostienschale (<emph>patene</emph>) gehören vor allem diejenigen Behältnisse zu den <emph>vasa sacra</emph>, in denen jene Hostien
-    verwahrt werden, die während der Eucharistiefeier nicht verzehrt werden. vgl. Nicolai Kölmel: Liturgische Geräte in ihrem Kontext. In: Gold &amp; Ruhm.
-    Kunst und Macht unter Heinrich II, von hg. Marc Fehlmann. Basel 2019. S. 182-187. Abrufbar unter:
-    <ref target="https://edoc.unibas.ch/entities/publication/921648df-f12f-439d-b0c3-ae0bcd7df903">https://edoc.unibas.ch/entities/publication/921648df-f12f-439d-b0c3-ae0bcd7df903</ref> [14.12.2024]</note>und einen Kelch darauf stehen,
-                    <lb/>mit einer Patene darüber.
+                    <lb/>und einen Kelch darauf stehen,
+                    <lb/>mit einer Patene darüber.<note n="1867-1868"><hi rend="bold">und ein kelch darûf stân, oben ein patêne hân</hi>: Neben dem Kelch (<emph>calix</emph>) zur Aufnahme des Weins und der
+                        dazu passend gefertigten Hostienschale (<emph>patene</emph>) gehören vor allem diejenigen Behältnisse zu den <emph>vasa sacra</emph>, in denen jene Hostien
+                        verwahrt werden, die während der Eucharistiefeier nicht verzehrt werden. vgl. Nicolai Kölmel: Liturgische Geräte in ihrem Kontext. In: Gold &amp; Ruhm.
+                        Kunst und Macht unter Heinrich II, von hg. Marc Fehlmann. Basel 2019. S. 182-187. Abrufbar unter:
+                        <ref target="https://edoc.unibas.ch/entities/publication/921648df-f12f-439d-b0c3-ae0bcd7df903">https://edoc.unibas.ch/entities/publication/921648df-f12f-439d-b0c3-ae0bcd7df903</ref> [14.12.2024]</note>
                     <lb/>Da sprach Herr Brendan frohen Mutes:
                     <lb/><anchor type="line-nr" n="1870"/>«Hier wird wahrhaftiger Gottesdienst gehalten.»
                     <lb/>Da wurden schöne Messen 
                     <lb/>gesungen mit wunderbar süssem Klang
                     <lb/>von den wahren Dienern Gottes.
                     <lb/>Als der Gottesdienst vollendet war,
-                    <lb/><note n="1875"><hi rend="bold">dô bâten sie Marîen kint</hi>: Gemeint ist hier Jesus, das Kind der Mutter Maria.</note><anchor type="line-nr" n="1875"/>da baten sie das Kind Marias,
+                    <lb/><anchor type="line-nr" n="1875"/>da baten sie das Kind Marias,<note n="1875"><hi rend="bold">dô bâten sie Marîen kint</hi>: Gemeint ist hier Jesus, das Kind der Mutter Maria.</note>
                     <lb/>dass es ihnen guten Wind gebe,
                     <lb/>und sie kehrten zum Schiff zurück.
                     <lb/>So brachte Gott sie später 
@@ -3041,16 +3047,16 @@
                     <lb/>viele Wunder gesehen,
                     <lb/>seit jener ersten Zeit,
                     <lb/>wahrlich, wie uns das Buch berichtet.
-                    <lb/><note n="1885"><hi rend="bold">gotes degen</hi>: s. <!-- insert ref -->Kommentar zu V. 344</note><anchor type="line-nr" n="1885"/>Auch hatte der Kämpfer Gottes 
+                    <lb/><anchor type="line-nr" n="1885"/>Auch hatte der Kämpfer Gottes<note n="1885"><hi rend="bold">gotes degen</hi>: s. <!-- insert ref -->Kommentar zu V. 344</note>
                     <lb/>niemanden auf dem Weg zurückgelassen
                     <lb/>ausser einen Kaplan,
                     <lb/>den ihm der Engel vor dem Paradies
                     <lb/>gefangen hatte:
                     <lb/><anchor type="line-nr" n="1890"/>Ausser diesem brachte der Weise Gottes
                     <lb/>die anderen Mönche dorthin.
-                    <lb/><note n="1892"><hi rend="bold">wildgevar</hi>: Dass Brendan und seine Gefährten nun mit dem gleichen Adjektiv beschrieben werden wie in V. 28 die Länder, die
-    voller Wunder sind, ist sicherlich kein Zufall. Brendan und seine Gefährten haben sich dem Wunderbaren so weit auch äusserlich angenähert, dass sie nur noch
-    über ihre Namen identifizierbar sind und die daheim gebliebenen Brüder ihnen zur Abwehr mit Kreuzen entgegenziehen (V. 1902).</note>Sie waren so fremdartig,
+                    <lb/>Sie waren so fremdartig,<note n="1892"><hi rend="bold">wildgevar</hi>: Dass Brendan und seine Gefährten nun mit dem gleichen Adjektiv beschrieben werden wie in <ref target="/st-brendan/edition/?note=28#/ec/f004/f/f004/text">V. 28</ref> die Länder, die
+                        voller Wunder sind, ist sicherlich kein Zufall. Brendan und seine Gefährten haben sich dem Wunderbaren so weit auch äusserlich angenähert, dass sie nur noch
+                        über ihre Namen identifizierbar sind und die daheim gebliebenen Brüder ihnen zur Abwehr mit Kreuzen entgegenziehen (V. 1902).</note>
                     <lb/>dass sie wohl niemand erkannt hätte,
                     <lb/>ehe sich jeder von ihnen beim Namen genannt hatte .
                     <lb/><anchor type="line-nr" n="1895"/>Als sie ans Land kamen,
@@ -3080,14 +3086,21 @@
                     <lb/>der Leib wurde in der Erde bestattet
                     <lb/><anchor type="line-nr" n="1920"/>und man liess bald daraufhin 
                     <lb/>ein prächtiges Kloster errichten
-                    <lb/>und mit sieben Chören schmücken,
-                    <lb/><!--TODO: two notes--><note n="1923"><hi rend="bold">mit siben kôren gezieret</hi>: Allein in der Offenbarung gibt es drei grosse Abschnitte, in denen die Zahl sieben im
-    Mittelpunkt steht: sieben Siegel (Offb 4,1-8,1), sieben Posaunen (Offb 8,2-14,20), sieben Schalen (15,1-16,21). Sie alle beschreiben in Bildern, wie die
-    Endzeit (Zeit zwischen Jesu erstem und zweitem Kommen) aussehen wird. Vgl. Johannes Kuhn: Bibel im Gespräch. Die Zahl Sieben. In: Zs. Gemeinschaft. von hg.
-    Die Apis -
-    <lb/>Evangelischer Gemeinschaftsverband Württemberg e.V. Stuttgart 2007. S. 16-17. Abrufbar unter:
-    <ref target="https://www.die-apis.de/fileadmin/BILDER/5-Bibel-und-Medien/3-Bibel_und_Arbeitsmaterial/Auslegungen/NT/27_Offenbarung/Offenbarung%208.pdf">https://www.die-apis.de/fileadmin/BILDER/5-Bibel-und-Medien/3-Bibel_und_Arbeitsmaterial/Auslegungen/NT/27_Offenbarung/Offenbarung%208.pdf</ref> [15.12.2024]. Die
-    Erwartung der Endzeit ist damit angesprochen, aber auch die Imitation von Gottes Schöpferkraft, der die Welt in sieben Tagen erschafft.</note><!--TODO: two notes-->um die sieben Jahre zu bezeichnen,
+                    <lb/>und mit sieben Chören schmücken,<note n="1922"><hi rend="bold">mit siben kôren gezieret</hi>: Allein in der Offenbarung gibt es drei grosse Abschnitte, in denen die Zahl sieben im
+                        Mittelpunkt steht: sieben Siegel (Offb 4,1-8,1), sieben Posaunen (Offb 8,2-14,20), sieben Schalen (15,1-16,21). Sie alle beschreiben in Bildern, wie die
+                        Endzeit (Zeit zwischen Jesu erstem und zweitem Kommen) aussehen wird. Vgl. Johannes Kuhn: Bibel im Gespräch. Die Zahl Sieben. In: Zs. Gemeinschaft. von hg.
+                        Die Apis - Evangelischer Gemeinschaftsverband Württemberg e.V. Stuttgart 2007. S. 16-17. Abrufbar unter:
+                        <ref target="https://www.die-apis.de/fileadmin/BILDER/5-Bibel-und-Medien/3-Bibel_und_Arbeitsmaterial/Auslegungen/NT/27_Offenbarung/Offenbarung%208.pdf">https://www.die-apis.de/fileadmin/BILDER/5-Bibel-und-Medien/3-Bibel_und_Arbeitsmaterial/Auslegungen/NT/27_Offenbarung/Offenbarung%208.pdf</ref> [15.12.2024]. Die
+                        Erwartung der Endzeit ist damit angesprochen, aber auch die Imitation von Gottes Schöpferkraft, der die Welt in sieben Tagen erschafft.</note>
+                    <lb/>um die sieben Jahre zu bezeichnen,<note n="1923"><hi rend="bold">zû bezeichende siben jâr</hi>: Holtzhauer liest die <emph>Navigatio Sancti Brendani abbatis</emph> im Sinne der
+                        mittelalterlichen Hermeneutik mit ihrem vierfachen Schriftsinn als sieben Jahre währende «Fahrt durch das Meer des Lebens zur himmlischen Heimat». Vgl.
+                        Sebastian Holtzhauer: In dir Gemessen Gewegen Vnd Geczalt sind alle Ding. Zahlen, Zyklen und ihr Symbolgehalt in der ‘Legend Sand Brandan’ des Johannes
+                        Hartlieb. In: ZfdA Zeitschrift für deutsches Altertum und deutsche Literatur, Bd. 144. 2015. S. 178-202.
+                        <lb/>Abrufbar unter:
+                        <ref target="https://www.jstor.org/stable/43672076">https://www.jstor.org/stable/43672076</ref>
+                        [14.12.2024]. Zugleich ist bemerkenswert, dass Brendan ursprünglich wohl mit einer neunjährigen Fahrt rechnet, da er in V. 103 ein Schiff für die Dauer
+                        einer solch langen Reise ausrüsten lässt. Ob damit angedeutet werden soll, dass Brendans Sünde schneller vergeben ist als angenommen, muss offen
+                        bleiben.</note>
                     <lb/>die er auf Reisen gewesen war. 
                 </ab>
                 <pb facs="#f046"/>
