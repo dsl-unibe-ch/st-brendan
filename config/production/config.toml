@@ -1,4 +1,3 @@
 # Base URL used when generating links to your pages
-baseURL = "https://dsl-unibe-ch.github.io/st-brendan/"
-#baseURL = "/"
+baseURL = "https://brandans-meerfahrt.digitaleditions.ch/"
 canonifyURLs = true
