@@ -18,9 +18,18 @@ rm -rf public/ resources/
 colorecho "${YELLOW}📝 Processing TEI with EditionCrafter...${NC}"
 mkdir -p public/edition/st-brendan
 
-if ! editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /st-brendan/edition; then
-    colorecho "${RED}❌ EditionCrafter processing failed!${NC}"
-    exit 1
+if [ "$1" == "production" ]; then
+    colorecho "${YELLOW}   Processing for production (GitHub Pages)...${NC}"
+    if ! editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /edition; then
+        colorecho "${RED}❌ EditionCrafter processing failed!${NC}"
+        exit 1
+    fi
+else
+    colorecho "${YELLOW}   Processing for local development...${NC}"
+    if ! editioncrafter process -i ./st-brendan.xml -o ./public/edition -u /st-brendan/edition; then
+        colorecho "${RED}❌ EditionCrafter processing failed!${NC}"
+        exit 1
+    fi
 fi
 
 colorecho "${GREEN}✓ EditionCrafter processing complete${NC}"
