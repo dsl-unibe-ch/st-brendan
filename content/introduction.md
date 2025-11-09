@@ -33,7 +33,7 @@ spätmittelhochdeutschen Texts Hinweise gegeben, die a) den Text selbst,
 seine Entstehung und Überlieferung beleuchten, b) historische und
 literarische Kontexte erläutern, c) das Nachleben von Brendans Seereise
 in den Fokus nehmen und schliesslich d) das Vorgehen beim Erstellen der
-kommentierten Übersetzung vorstellen. Für eilige Leser*innen wird jeder
+kommentierten Übersetzung vorstellen. Für eilige Leser\*innen wird jeder
 thematische Fokus mit einer thematischen Einführung eröffnet und einer
 Schlussbemerkung mit fazitartigem Charakter beschlossen. Im Anschluss
 folgt ein ausführliches Literaturverzeichnis.
@@ -63,7 +63,7 @@ Die sog. Reisefassung der *Navigatio Sancti Brendani,* auch bekannt als
 *Brandans Meerfahrt,* unterscheidet sich von dieser insbesondere durch
 eine Rahmenhandlung, mit der der Text beginnt und die zugleich dazu
 dient, den Protagonisten Brendan dem Lesepublikum vorzustellen:
-Leser*innen (bzw. zeitgenössisch vermutlich auch Hörer*innen) erfahren
+Leser\*innen (bzw. zeitgenössisch vermutlich auch Hörer\*innen) erfahren
 von Brendan in den ersten Versen, dass er so gelehrt ist, dass er
 unermüdlich liest, um mehr über die Welt zu erfahren, aber dass er den
 Wundern, die in den Büchern beschrieben werden, immer mehr Zweifel
@@ -75,7 +75,7 @@ sich im Verlauf der Reise als verschiedene Stationen dar, die in der
 Gliederung abgebildet und zusammengefasst sind. In der Forschung hat
 sich eine Einteilung des Werks etabliert, die für eine digitale Edition
 mit Hyperlinks und Verweisen auf die einzelnen Textteile nicht
-praktikabel ist, sodass die Bearbeiter*innen sich entschlossen, eine
+praktikabel ist, sodass die Bearbeiter\*innen sich entschlossen, eine
 eigene Gliederung zu erstellen. Summarisch betrachtet ergibt sich, dass
 sich die verschiedenen Stationen von Brendans Reise aus ganz
 unterschiedlichen Quellen speisen, die in den Kommentaren immer wieder
@@ -774,7 +774,7 @@ beschriebenen Prozesse mussten für die kommentierte Übersetzung
 ausgelassen werden -- zum einen aus organisatorischen Gründen wie dem
 knappen Zeitrahmen von einem Semester für das Erstellen des
 Übersetzungstextes und der Kommentare, zum anderen aber auch aus
-didaktischen Gründen: Die Teilnehmer*innen des Seminars verfügten zwar
+didaktischen Gründen: Die Teilnehmer\*innen des Seminars verfügten zwar
 über Mittelhochdeutsch-Kenntnisse, hatten aber keine Einführung in die
 Editionswissenschaften besucht. Schritte zur eigentlichen Herstellung
 des Textes entfielen damit -- gerade die Transkription und das Arbeiten
@@ -796,7 +796,7 @@ Prosafassung P, der mittelniederdeutschen Reimfassung N und der
 bearbeiteten spätmittelhochdeutschen Reimfassung M wurde verzichtet, da
 unter didaktischer Perspektive die Arbeit am und mit dem Text im
 Vordergrund stand und die Mittelhochdeutsch-Kenntnisse der
-Teilnehmer*innen vertieft und anwendungsorientiert zum Einsatz gebracht
+Teilnehmer\*innen vertieft und anwendungsorientiert zum Einsatz gebracht
 werden sollten. Daher widmeten sich die Kommentare zur Edition
 hauptsächlich inhaltlichen Unklarheiten. Dies hat den Vorteil, dass
 Rezipierende des Textes ohne oder nur mit geringen
@@ -804,7 +804,7 @@ Mittelhochdeutsch-Kenntnissen und Wissen über die Besonderheiten der
 mittelalterlichen Literatur einerseits nicht mit zu vielen
 fachspezifischen Informationen überfordert werden und andererseits der
 Fokus auf dem Inhalt der Erzählung bleibt. Die Aufgaben der
-Kursteilnehmer*innen bestand darin, den hergestellten Text von Schröder
+Kursteilnehmer\*innen bestand darin, den hergestellten Text von Schröder
 zu übersetzen und Kommentare dazu zu verfassen. Diese Kommentare bezogen
 sich einerseits auf den Inhalt, andererseits auf bestimmte, editorische
 Eingriffe unsererseits, die besonders die Interpunktion betreffen. Die
@@ -826,7 +826,7 @@ nicht als Lernziel definiert.
 Nach diesem Grundsatz richtete sich unsere Übersetzung. So wie im Zitat
 erwähnt, war der Gedanke an die zukünftigen Rezipierenden des Textes ein
 wichtiges Kriterium beim Verfassen der Übersetzung. Die ersten 72 Verse
-der *Meerfahrt* wurden gemeinsam übersetzt, indem die Teilnehmer*innen
+der *Meerfahrt* wurden gemeinsam übersetzt, indem die Teilnehmer\*innen
 in Vorbereitung eine eigene Übersetzung anfertigten, die dann während
 der Seminarzeit besprochen wurde: Ein bis zwei Studierende präsentierten
 ihre Version der Übersetzung, die in der Gruppe diskutiert, bewertet und
@@ -837,7 +837,7 @@ Satzstellung oder die Interpunktion abgeändert. Auf diese Art und Weise
 konnte ein Gefühl für das weitere Vorgehen und den allgemeinen Umgang
 mit dem Text gestärkt werden. Aus den übersetzten Versen entwickelte
 sich auch das Stylesheet für die individuellen Übersetzungen, die als
-Prüfungsleistung von den Teilnehmer*innen anzufertigen waren. Darin
+Prüfungsleistung von den Teilnehmer\*innen anzufertigen waren. Darin
 legten wir neben den allgemeinen Formalia auch fest, dass in unserer
 Übersetzung bestimmte mittelhochdeutsche Fachbegriffe kursiv
 gekennzeichnet und anschliessend in einem Kommentar näher erläutert
@@ -854,7 +854,7 @@ schliessen, dass die Interpunktion die Interpretation und das
 Verständnis des Textes beeinflussen können. Jedoch ist auch hier wichtig
 zu erwähnen, dass so wie bei allen Editionen mittelalterlicher
 Handschriften die Interpunktion nicht als statisches Element angesehen
-wird und je nach Bearbeiter*in des Textes variiert.[^69] Wie diese
+wird und je nach Bearbeiter\*in des Textes variiert.[^69] Wie diese
 Abänderung der Interpunktion aussieht, wird anhand des folgenden
 Beispiels erläutert. In den ersten 16 Versen der *Meerfahrt* erwähnt der
 Erzähler eine Geschichte aus der Bibel:
@@ -899,7 +899,7 @@ editorischen Entscheidungen festgehalten und Alternativen dazu
 aufgezeigt wurden.
 
 Nach dem Aufteilen der Verse trennten sich die Wege der einzelnen
-Kursteilnehmer*innen, um die unterschiedlichen Arbeiten aufzuteilen.
+Kursteilnehmer\*innen, um die unterschiedlichen Arbeiten aufzuteilen.
 Während sich eine Präsentationsgruppe ihren Vortragsthemen, die zu
 Kursbeginn als Einstieg kurz thematisiert worden waren, widmeten, begann
 die Übersetzungsgruppe mit dem Übersetzen ihre Versabschnitte. Während
@@ -918,7 +918,7 @@ klar und präzise wie nötig formuliert werden, um unserem Zielpublikum zu
 ermöglichen zusätzliches Wissen zu erwerben. Gemeinsam notierten wir
 während des Übersetzens, welche Textstellen einen Kommentar forderten.
 Die unterschiedlichen Kommentare wurden ebenfalls aus Zeit- und
-Effizienzgründen auf die Kursteilnehmer*innen verteilt. In der
+Effizienzgründen auf die Kursteilnehmer\*innen verteilt. In der
 gemeinsam erarbeiteten Wissenssammlung wurden schliesslich die
 unterschiedlichen Anmerkungen zum Text festgehalten. Der erste gemeinsam
 festgelegte Kommentar befand sich bereits in V. 1 der *Meerfahrt*. Der
@@ -927,7 +927,7 @@ sofort beim Lesen darauf schliesst, dass mit diesem Wort auch ein
 Standesunterschied impliziert wird, ergänzten wir hier die nötigen
 Informationen mit den mhd. Wörterbüchern als Quellen. Wie die Kommentare
 in der digitalen Edition im oder neben dem Text stehen werden, wurde von
-den Kursteilnehmer*innen nicht festgelegt, da diese Aufgabe vom Data
+den Kursteilnehmer\*innen nicht festgelegt, da diese Aufgabe vom Data
 Science Lab übernommen wurde.
 
 In unseren Kommentaren verweisen wir immer wieder auf andere

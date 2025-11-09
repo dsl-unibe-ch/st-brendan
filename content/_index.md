@@ -10,7 +10,7 @@ entstanden im Basiskurs "Der Heilige Brendan auf Reisen" in Germanistik / Älter
 
 erarbeitet unter der Leitung von Dr. M. Strieder
 
-durch E. Beuggert, N. Bruhin, E. Forster, M. Frey, S Gasser, E. Konjuhaj, M. Nazifi, J. Roggen, J. Rubin, A. Schmoldt und A. Schubarth
+durch E. Beuggert, N. Bruhin, E. Forster, M. Frey, S. Gasser, E. Konjuhaj, M. Nazifi, J. Roggen, J. Rubin, A. Schmoldt und A. Schubarth
 
 mit technischer Unterstützung durch das [Data Science Lab](https://dsl.unibe.ch) (P. Dängeli) und
 
