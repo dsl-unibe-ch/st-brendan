@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+    <div id="ec"></div>
+
+    <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd" ></script>
+
+    <script type="text/javascript">
+        var ec = EditionCrafter.viewer({
+            id: 'ec',
+            documentName: '{{ .Params.documentName }}',
+            iiifManifest: '{{ .Params.documentURL }}',
+            transcriptionTypes: {
+                {{ range $layerKey, $layerName := .Params.transcriptionTypes }}
+                    {{ $layerKey }}: '{{ $layerName }}',
+                {{ end }}
+            }
+        });
+    </script>
+{{ end }}

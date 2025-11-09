@@ -25,7 +25,7 @@ Funded by the Collegium Decanale of the University of Bern, funding line [Inspir
 
 This edition uses a custom-built interactive notes drawer that enhances EditionCrafter's default annotation system. The build-in mechanism of the EditionCrafter viewer that renders TEI `<note>` elements as simple tooltips (red asterisks `*` that show text on hover) proved insufficient for scholarly annotations requiring structured content, references, and comfortable reading.
 
-Instead, annotations are presented in a sidebar/drawer that is populated by intercepting EditionCrafter's note markers. Since the EC viewers processed HTML is not a good base for content retrieval and processing, the custom JavaScript (`notes-drawer.js`) fetches the full HTML output from EditionCrafter, extracts all `<tei-note>` elements with their content, and matches them to the visible markers in the text using a context-aware algorithm. This algorithm compares the text preceding each note marker with the text preceding each note in the source, ensuring accurate pairing even when multiple notes share the same ID. Users can click discrete middot markers (·) in the text to open the corresponding annotation in a collapsible drawer, or click entries in the drawer to jump to their location in the text. The system supports deep linking via URL parameters (`?note=X`), preserves EditionCrafter's page navigation, and automatically adapts to different deployment environments (local vs. GitHub Pages with base path).
+Instead, annotations are presented in a sidebar/drawer that is populated by intercepting EditionCrafter's note markers. Since the EC viewers processed HTML is not a good base for content retrieval and processing, the custom JavaScript (`notes-drawer.js`) fetches the full HTML output from EditionCrafter, extracts all `<tei-note>` elements with their content, and matches them to the visible markers in the text using a context-aware algorithm. This algorithm compares the text preceding each note marker with the text preceding each note in the source, ensuring accurate pairing even when multiple notes share the same ID. Users can click discrete middot markers (·) in the text to open the corresponding annotation in a collapsible drawer, or click entries in the drawer to jump to their location in the text. The system supports deep linking via URL parameters (`?note=X`), preserves EditionCrafter's page navigation, and automatically adapts to different deployment environments (local vs. GitHub Pages with base path; with the deployment at brandans-meerfahrt.digitaleditions.ch this is no longer needed).
 
 
 ---
@@ -52,7 +52,7 @@ hugo server -D --environment development -p 8000
 <summary><strong>Configuration</strong></summary>
 
 - Environment-specific Hugo configs (`config/development/` vs `config/production/`)
-- Automatic base path detection for GitHub Pages deployment (`/st-brendan/` prefix)
+- Automatic base path detection for GitHub Pages deployment (`/st-brendan/` prefix) [deactivated after configuring brandans-meerfahrt.digitaleditions.ch]
 </details>
 
 ---

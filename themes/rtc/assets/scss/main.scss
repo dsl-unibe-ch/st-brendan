@@ -43,4 +43,61 @@ tei-anchor::before {
 
 /* Note: Original red asterisk styles are now overridden by notes-drawer.scss */
 
+
+
+
+/* Logo + title inline layout */
+.home-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.home-link .site-logo {
+  width: 64px;
+  height: auto;
+  display: block;
+  flex: 0 0 auto;
+}
+
+/* Title block */
+.home-link .site-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: 1;
+}
+
+.site-logo { filter: invert(100%); }
+
+/* Main and sub parts */
+.site-title-main {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.site-title-sub {
+  font-size: 0.95rem;
+  margin-top: 0.08rem;
+  color: rgba(0,0,0,0.7);
+}
+
+/* Make it responsive: stack vertically on small screens */
+/* @media (max-width: 540px) { */
+@media (max-width: 300px) {
+  .home-link {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .home-link .site-title {
+    align-items: center;
+    text-align: center;
+  }
+}
+
 /* ========== St. Brendan (end) =============== */
