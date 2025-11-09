@@ -44,9 +44,9 @@ Meerfahrt* beziehen sich ebenso wie Übersetzung und Kommentar auf
 folgende Ausgabe: *Sanct Brandan. Ein lateinischer und drei deutsche
 Texte. Besorgt von Carl Schröder. Besold 1871.*
 
-### a) Vorstellung des Textes
+## a) Vorstellung des Textes
 
-#### Thematische Einführung
+### Thematische Einführung
 
 Erzählungen rund um die Seereise des Heiligen Brendan erfreuen sich im
 Mittelalter und darüber hinaus einer grossen Beliebtheit, die durch die
@@ -95,7 +95,7 @@ beschliessen die Reise wieder im heimischen Irland, wo sie auch
 gestartet sind, und nachdem der Abt seine Aufzeichnungen vollendet und
 damit implizit das verbrannte Buch ersetzt hat, stirbt er[^5].
 
-#### Datierung und Quellen
+### Datierung und Quellen
 
 Erzählungen über die teils fantastisch anmutende Reise des Heiligen
 Brendan kursieren vermutlich ab dem 7. Jahrhundert in Irland[^6]. Wie so
@@ -177,7 +177,7 @@ Kommentare, die dieser Übersetzung beigegeben sind, machen, wo nötig und
 sinnvoll, diese Quellen ausfindig, zeigen Kontexte auf und geben für das
 Textverständnis zusätzliche Informationen.
 
-#### Überlieferung der Reisefassung M
+### Überlieferung der Reisefassung M
 
 Das hier abgebildete Stemma für die gereimte Reisefassung M ist Haug
 2013 entnommen[^13]. Die bereits erwähnte, rekonstruierte Version *O
@@ -201,7 +201,7 @@ Jahrhundert zu datieren ist, was sich besonders an sprachlichen
 Merkmalen gut zeigen lässt -- der Text liegt in einem späten
 Mittelhochdeutsch vor.
 
-#### Schlussbemerkung
+### Schlussbemerkung
 
 Die mittelhochdeutsche Reisefassung der Erzählung von Brendan und seiner
 Meerfahrt kann ins 14. Jahrhundert datiert werden -- sprachliche
@@ -211,9 +211,9 @@ der oberdeutschen Prosaversion und der mittelniederdeutschen Reimfassung
 werden durch stemmatologische Untersuchungen, wie sie Haug durchgeführt
 hat, deutlich.
 
-### b) Historischer und kultureller Kontext der *Navigatio Sancti Brendani*
+## b) Historischer und kultureller Kontext der *Navigatio Sancti Brendani*
 
-#### Thematische Einführung
+### Thematische Einführung
 
 Die *Navigatio Sancti Brendani* und die Figur des heiligen Brendan
 stehen im Spannungsfeld von historischer Realität und Überlieferung.
@@ -227,7 +227,7 @@ der hagiographischen Darstellung Brendans und der literarischen
 Gestaltung seiner Seereise. Ziel ist es, die Kontexte dieses Werkes
 sowohl als historisches als auch literarisches Phänomen zu ergründen.
 
-##### Zwischen historischer Person und literarischer Figur
+#### Zwischen historischer Person und literarischer Figur
 
 Lange bevor die *Navigatio Sancti Brendani* geschrieben wurde, war der
 heilige Brendan -- auch Brendan der Reisende genannt -- bereits eine
@@ -284,7 +284,7 @@ einen «Bestseller des lateinischen Mittelalters»[^20]. In der
 Brendan-Tradition verschmelzen die historische Person des
 Klostergründers von Clonfert und die literarische Figur aus der *Navigatio*.[^21]
 
-#### Kontexte und Einflüsse
+### Kontexte und Einflüsse
 
 Die *Navigatio* ist wie jeder andere literarische Text ein Produkt ihrer
 spezifischen Entstehungsbedingungen und spiegelt in kultureller,
@@ -296,7 +296,7 @@ sowohl in der thematischen Verknüpfung keltischer Mythen mit
 christlicher Symbolik als auch in den Motiven und Erzählstrukturen, die
 noch heute tief in der irischen Kultur verwurzelt sind.[^22]
 
-##### Literarische Einflüsse
+#### Literarische Einflüsse
 
 Aussergewöhnlich breit sind die *Navigatio* und die verschiedenen
 Reimfassungen mit 141 überlieferten Handschriften seit dem 10.
@@ -342,7 +342,7 @@ grösstenteils heidnisch geprägt ist. Besonders die Darstellung der
 Inseln in der *Navigatio* reflektiert diese Vorstellungen der Anderwelt,
 die in vielen irischen Erzählungen dieser Gattung zu finden sind.[^27]
 
-##### Von den Kelten zur Christianisierung Irlands
+#### Von den Kelten zur Christianisierung Irlands
 
 Noch vor der Christianisierung begann ab dem 5. Jahrhundert v. Chr. der
 Einfluss der Kelten auf Irland. Sie gelangten von Frankreich auf die
@@ -387,7 +387,7 @@ Entwicklung des Landes einleiten, die in den folgenden Jahrhunderten zu
 einem Zentrum christlicher Gelehrsamkeit und Spiritualität werden
 sollte.[^33]
 
-##### Iroschottische Missionsbewegung
+#### Iroschottische Missionsbewegung
 
 Die iroschottische Missionsbewegung des 6. bis 8. Jahrhunderts spielte
 eine zentrale Rolle in der Ausbreitung des Christentums in Europa und
@@ -453,7 +453,7 @@ einem bedeutenden geistigen Zentrum entwickelte. Gallus ist insbesondere
 für seine Frömmigkeit bekannt und gilt bis heute als Schutzpatron der
 Stadt und des Bistums St. Gallen.[^38]
 
-##### Askese und Martyrium
+#### Askese und Martyrium
 
 Die Askese spielte in der irischen Kirche und den Klöstern eine zentrale
 Rolle und prägte deren Identität massgeblich. Enthaltsamkeit wurde als
@@ -539,7 +539,7 @@ Bereitschaft, sich den physischen und geistigen Herausforderungen der
 Reise zu stellen, deuten auf eine bewusste Einbindung dieser
 keltisch-christlichen Formen des Martyriums hin.
 
-#### Schlussbemerkung
+### Schlussbemerkung
 
 Die Gestalt des heiligen Brendan und die *Navigatio Sancti Brendani* 
 stehen beispielhaft für die enge Verbindung von historischer Realität
@@ -557,20 +557,21 @@ Denk- und Vorstellungswelt der damaligen Zeit. Brendan und seine
 Erzählung bleiben damit ein lebendiges Zeugnis für die Kraft religiöser
 Narrative, Brücken zwischen Geschichte, Glauben und Kultur zu schlagen.
 
-### c) Nachleben der *Navigatio Sancti Brendani* und des heiligen Brendans
+## c) Nachleben der *Navigatio Sancti Brendani* und des heiligen Brendans
 
-#### Thematische Einführung
+### Thematische Einführung
 
 Die *Navigatio Sancti Brendani* und die Figur des heiligen Brendan haben
 über die Jahrhunderte hinweg einen tiefgreifenden Einfluss auf die
 Literatur, Kartographie und religiöse Praktiken ausgeübt. Im Folgenden
-soll ein Überblick über das Nachleben dieser Geschichte, der *Navigatio*, und des heiligen Brendans gegeben werden, mit besonderem
+soll ein Überblick über das Nachleben dieser Geschichte, der *Navigatio*, 
+und des heiligen Brendans gegeben werden, mit besonderem
 Fokus auf den Brendan- Orte im iroschottischen Gebiet, der Verehrung des
 Heiligen, der Darstellung und Diskussion der sog. Insel des Heiligen
 Brendan sowie der moderne Rezeption durch den britischen Abenteurer und
 Historiker Tim Severin.
 
-##### Entstehung und Nachleben der *Navigatio* und die historische Figur «Brendan»
+#### Entstehung und Nachleben der *Navigatio* und die historische Figur «Brendan»
 
 Ab dem Hochmittelalter wurde die *Navigatio* in Benediktiner- und
 Zisterzienserklöstern als allegorischer Text gelesen, in welchem der
@@ -580,14 +581,15 @@ aber weit über die Klöster hinaus. So wurde die Geschichte in vielen
 volkssprachlichen Adaptionen verbreitet und sogar von bedeutsamen
 Denkern des Mittelalters wie Vizenz von Beauvais, welcher zwischen 1184
 und 1264 lebte, kritisch kommentiert.[^47] Darüber hinaus gibt es in der
-Forschungsliteratur Hinweise darauf, dass die Legende der *Navigatio* auch als missionarisches Werkzeug gebraucht wurde, um den christlichen
+Forschungsliteratur Hinweise darauf, dass die Legende der *Navigatio* 
+auch als missionarisches Werkzeug gebraucht wurde, um den christlichen
 Glauben an entfernten Orten überall in Europa zu verbreiten.[^48] Unter
 der Perspektive der Literaturwissenschaft zeigt sich die Relevanz und
 das Nachleben der *Navigatio* in ihrer Adaption in der
 mittelniederdeutschen Version *Van Sunte Brandanus*, welche besonders
 entlang der Küsten Norddeutschlands verbreitet wurde.[^49]
 
-##### Einfluss Brendans: Brendan-Orte im iroschottischen Gebiet
+#### Einfluss Brendans: Brendan-Orte im iroschottischen Gebiet
 
 Der Einfluss der heiligen Brendans zeigt sich bis heute in zahlreichen
 Ortsnamen und religiösen Stätten im iroschottischen Raum. In seiner
@@ -626,7 +628,7 @@ Diese Ortsnamen werden heute vor allem sichtbar, wenn man den Begriff
 viele Kirchen, Spitäler und Kathedralen unter dem Namen des Heiligen
 bekannt[^53] und zeugen von seiner ungebrochenen Popularität.
 
-##### Verehrung des Heiligen
+#### Verehrung des Heiligen
 
 Brendan wurde in seiner Heimat Irland als Heiliger verehrt. Diese
 Verehrung verbreitete sich aber auch über Schottland und Wales aus,
@@ -656,7 +658,7 @@ Brendan mit diesen Personengruppen mag auf eine deutsche Volksetymologie
 zurückzuführen sein, welche Brendan mit dem deutsche Wort Brand (Feuer)
 assoziierte.[^56]
 
-#### Brendans Insel
+### Brendans Insel
 
 In der *Navigatio Sancti Brendani* wird von den Entdeckungen berichtet,
 die Brendan und seine Gefährten während der Reise machten. Erzählt wird
@@ -692,7 +694,7 @@ Nachvollzugs verstärkt, was den Lesern der *Navigatio* ermöglichte,
 Brendans Reise als spirituelle und religiöse Erfahrung zu
 verstehen.[^61]
 
-#### Moderne Rezeption: Tim Severin auf Brendans Reiseroute
+### Moderne Rezeption: Tim Severin auf Brendans Reiseroute
 
 Der Einfluss und das Nachleben Brendans setzt sich auch in der modernen
 Zeit fort. Der britische Abenteurer, Historiker und Schriftsteller Tim
@@ -706,7 +708,8 @@ damit zu beweisen, dass die Routen und Entfernungen für vormoderne
 Transportmittel zu bewältigen waren.
 
 Zu seinen Expeditionen gehörte auch der Nachvollzug der Legende des
-heiligen Brendans und seiner Seefahrt, welche in der *Navigatio* geschildert wird. Tim Severin organisierte dafür ein grosses Projekt,
+heiligen Brendans und seiner Seefahrt, welche in der *Navigatio* 
+geschildert wird. Tim Severin organisierte dafür ein grosses Projekt,
 welches 1976 mit der Rekonstruktion des Boots vom heiligen Brendan
 begann. Ihm war es wichtig, dass das Boot mit traditionell irischer
 Handwerkskunst gefertigt wurde, um den Bezug zum Original zu erhalten.
@@ -714,8 +717,10 @@ Zudem hielt er sich an die Beschreibungen in der *Navigatio*. Mit dem so
 entstandenen Lederboot, auch «Currach» genannt, segelte er auf der
 historischen Route des heiligen Brendans von Irland über den Atlantik
 bis nach Neufundland.[^62] Tim Severin ging mit seinem Forschungsansatz
-davon aus, dass es sich bei der «Sankt-Brendan-Insel» aus der *Navigatio* eigentlich um Neufundland handeln könnte; damit würden die
-Beschreibungen der paradiesischen Insel mit denen aus dem Kreis der sog. *Vinland-Sagas* um Erik den Roten und seinen Reisen nach Vinland
+davon aus, dass es sich bei der «Sankt-Brendan-Insel» aus der *Navigatio* 
+eigentlich um Neufundland handeln könnte; damit würden die
+Beschreibungen der paradiesischen Insel mit denen aus dem Kreis der sog. 
+*Vinland-Sagas* um Erik den Roten und seinen Reisen nach Vinland
 übereinstimmen; das dort beschriebene Vinland trägt ebenfalls
 paradiesische Züge und ist im heutigen Neufundland verortet, wo auch
 Siedlungsspuren der Wikinger in L'Anse aux Meadows gefunden wurden. Im
@@ -738,7 +743,7 @@ Brendans aufgreift, trugen dazu bei, dass das Interesse an der Legende
 des heiligen Brendans und der *Navigatio Sancti Brendani* in der
 modernen Zeit neu entfachte.
 
-#### Schlussbemerkung
+### Schlussbemerkung
 
 Wie hier geschildert, haben die *Navigatio Sancti Brendani* und die
 historische Figur des heiligen Brendan über die Jahrhunderte hinweg
@@ -756,17 +761,18 @@ nach Entdeckung, Glauben und dem Verständnis des Unbekannten wider, die
 als *conditio humana* einen frühmittelalterlichen Heiligen auch heute
 noch nahbar machen.
 
-### d) **Die *Navigatio Sancti Brendani* als digitale Edition**
+## d) **Die *Navigatio Sancti Brendani* als digitale Edition**
 
-#### Thematische Einführung
+### Thematische Einführung
 
 Der Kurs verfolgte das Ziel, eine digitale kommentierte Übersetzung der
 Reisefassung M von *Brandans Meerfahrt* zu erarbeiten. Die Übersetzung
 soll einerseits als Inspiration und Beispiel für zukünftige Kurse
 dienen, die ein ähnliches Vorhaben verfolgen. Andererseits soll sie
-Rezipierenden, die sich für Mediävistik interessieren, den Inhalt von *Brandans Meerfahrt* (Reimfassung M) verständlich und zugänglich machen.
+Rezipierenden, die sich für Mediävistik interessieren, den Inhalt von 
+*Brandans Meerfahrt* (Reimfassung M) verständlich und zugänglich machen.
 
-##### Der Weg zu einer Edition[^65]
+### Der Weg zu einer Edition[^65]
 
 Thomas Bein erläutert in seiner *Textkritik*, welche Arbeitsschritte
 erfolgen müssen, um eine Edition erarbeiten zu können. Viele der dort
@@ -781,7 +787,7 @@ des Textes entfielen damit -- gerade die Transkription und das Arbeiten
 mit den entsprechenden digitalen Hilfsmitteln wie Transkribus oder
 eScriptorium wären aber für die Lehre besonders lohnenswert.
 
-Vorgehen bei der Erstellung von Übersetzung und Kommentar
+#### Vorgehen bei der Erstellung von Übersetzung und Kommentar
 
 Für die Mehrheit der Studierenden war das Erarbeiten einer Edition
 unbekannt, daher galt Beins *Textkritik* als Einstieg ins Thema und
@@ -814,7 +820,7 @@ erfolgte im <!-- TEI-Publisher-->EditionCrafter -- eine Einführung in
 dieses Programm konnte im Seminar nicht geleistet werden und war auch 
 nicht als Lernziel definiert.
 
-Übersetzungsprozess
+#### Übersetzungsprozess
 
 > Ein Autor formuliert unter gewissen Vorannahmen über Empfänger
 > (Rezipienten) und Absichten (Intentionen) einen bestimmten Text in der
@@ -910,7 +916,7 @@ die Texte via Peer-review Verfahren und durch Frau Strieder nochmals
 kontrolliert, überarbeitet und angeglichen werden, um eine stimmige
 Edition zu gewährleisten.
 
-##### Kommentierungsprozess
+#### Kommentierungsprozess
 
 Ähnlich wie beim Übersetzungsprozess richteten wir uns bei den
 Kommentaren nach den gleichen Richtlinien. Die Kommentare sollten so
@@ -938,7 +944,7 @@ aufgezeigt werden. Somit sahen diese zusammenhängenden Kommentare wie
 folgt aus: «**V. 12: Balam**: auch Bileam genannt, ist der blinde Herr
 der Eselin. S. Kommentar zu V. 7.»
 
-##### Herausforderungen
+### Herausforderungen
 
 Da das Projekt nur während eines Semesters stattfand, waren uns
 zeitlichen Schranken gesetzt. Besonders beim gemeinsamen Übersetzen
@@ -971,7 +977,7 @@ Sensibilisierung für das eigene Übersetzen sichergestellt werden konnte
 und zugleich ein gesundes 'Misstrauen' gegenüber Übersetzungen im
 Allgemeinen aufgebaut werden kann.
 
-#### Die digitale Edition
+### Die digitale Edition
 
 «Digitale Editionen machen historische Dokumente für ein breites 
 (wissenschaftliches) Publikum verfügbar und bilden damit die Basis für
@@ -998,7 +1004,7 @@ zu ihnen gelangen. Die digitale Edition ermöglicht somit ein
 umfangreiches Rezipieren des Textes sowie einen erleichterten Zugang 
 von unterschiedlichen Zugriffsorten.
 
-Schlussbemerkung
+### Schlussbemerkung
 
 Diese Ausgabe ist nicht als endgültiges, unveränderbares Endprodukt.
 Vielmehr bietet es eine Grundlage für weitere Arbeiten mit Software 
@@ -1012,15 +1018,15 @@ Editor\*innen, Rezipierenden, Schüler\*innen und allen Interessierten
 als Inspirationsquelle für weiterführende Arbeiten und Ideen zu diesem 
 Thema dienen.
 
-**Literaturverzeichnis**
+## Literaturverzeichnis
 
-**Primärtext:**
+### Primärtext
 
 *Sanct Brandan. Ein lateinischer und drei deutsche Texte. Besorgt von
 Carl Schröder. Besold 1871. (Digitalisiert von der University of
 Toronto, verfügbar über archive.org).*
 
-***Hilfsmittel:***
+### Hilfsmittel
 
 *Benecke, Müller, Zarncke: Mittelhochdeutsches Wörterbuch.
 Digitalisierte Fassung im Wörterbuchnetz des Trier Center for Digital
@@ -1032,15 +1038,14 @@ Fassung im Wörterbuchnetz des Trier Center for Digital Humanities,
 Version 01/23, [W&ouml;rterbuchnetz](https://www.woerterbuchnetz.de/Lexer), abgerufen am
 05.12.2024.*
 
-***Sekundärquellen:***
+### Sekundärquellen
 
 *Bein, Thomas: Textkritik. Eine Einführung in Grundlagen germanistisch
 -- mediävistischer Editionswissenschaft. Lehrbuch mit Übungsteil. Lang
 2008.*
 
 *Bläß, Sandra; Flüh, Marie; Nantke, Julia: „Digitale Editionen".
-In: forTEXT. Literatur digital erforschen. 2022. URL: [Digitale Editionen | forTEXT](https://fortext.net/routinen/methoden/digitale-editionen), abgerufen am
-04. Dezember 2024.*
+In: forTEXT. Literatur digital erforschen. 2022. URL: [Digitale Editionen | forTEXT](https://fortext.net/routinen/methoden/digitale-editionen), abgerufen am 04. Dezember 2024.*
 
 *Bockmann, Jörn und Sebastian Holtzhauer: St. Brandan in europäischer
 Perspektive. Textuelle und bildliche Transformationen. Eine Einleitung.
@@ -1152,7 +1157,7 @@ Versions. Hg. Von Glyn S. Burgess und Clara Strijbosch. Brill 2006, S.
 *Swank, Kris: The Child's Voyage and the Immram Tradition in Lewis,
 Tolkien, and Pullman. In: Mythlore, Vol. 38, Nr. 1 (2019), S. 73--96.*
 
-*von den Brincken,* *Anna Dorothee: Das Weltbild des irischen
+*von den Brincken, Anna Dorothee: Das Weltbild des irischen
 Seefahrer-Heiligen Brendan in der Sicht des 12. Jahrhunderts. In:
 Cartographica Helvetica: Fachzeitschrift für Kartengeschichte, Bd.
 21--22 (2000), S. 17--22.*
@@ -1174,6 +1179,10 @@ V&R 2022, S. 219--240.*
 the German Prose Versions and Their Illustrations. In: The Brendan
 Legend. Texts and Versions. Hg. Von Glyn S. Burgess und Clara
 Strijbosch. Brill 2006, S. 315-336.*
+
+---
+
+## Anmerkungen
 
 [^1]: Vgl. Hammer, Andreas: Das Buch, die Schrift und der Druck. Die
  Bildprogramme der Prosa-Fassung der ‚Reise des hl. Brandanˋ in den
@@ -1379,12 +1388,11 @@ Strijbosch. Brill 2006, S. 315-336.*
 
 [^56]: Vgl. ebd., S. 201-210.
 
-[^57]: Die letzte Sichtung der Insel des Heiligen Brendan ist Mitte des
- 20. Jahrhunderts von den Kanaren aus vermeldet worden; es handelte
+[^57]: Die letzte Sichtung der Insel des Heiligen Brendan ist Mitte des 20. 
+ Jahrhunderts von den Kanaren aus vermeldet worden; es handelte
  sich um eine Luftspiegelung. Vgl. Rainsford, Cat : In the Canary
  Islands, a Mysterious Phantom Isle Haunts Local Imagination,
- abrufbar unter:
- [In the Canary Islands, Saint Brendan&#39;s Phantom Island Haunts Local Imagination - Atlas Obscura](https://www.atlasobscura.com/articles/canary-islands-saint-brendans-phantom-island) [16.12.2024]
+ abrufbar unter: [In the Canary Islands, Saint Brendan&#39;s Phantom Island Haunts Local Imagination - Atlas Obscura](https://www.atlasobscura.com/articles/canary-islands-saint-brendans-phantom-island) [16.12.2024]
 
 [^58]: Vgl. Scafi, Alessandro: Saint Brendan's Island on European Maps
  (1300--1500). In: Jörn Bockmann, Sebastian Holtzhauer (Hrsg.): St.
