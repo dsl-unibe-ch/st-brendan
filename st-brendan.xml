@@ -1,17 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="st-brendan">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>St. Brandon</title>
+                <title>Brandans Meerfahrt</title>
+                <title type="subtitle">Digitale Edition der Reisefassung M</title>
             </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Brandans Meerfahrt. Digitale Edition der Reisefassung M</title>
+                    <note>Kollaboratives Editionsprojekt entstanden im Basiskurs “Der Heilige Brendan auf Reisen” in Germanistik / Älterer deutscher Literatur
+                        im Herbstsemester 2024 an der Universität Bern, erarbeitet unter der Leitung von <persName>Dr. M. Strieder</persName> durch <persName>E.
+                            Beuggert</persName>, <persName>N. Bruhin</persName>, <persName>E. Forster</persName>, <persName>M. Frey</persName>, <persName>S,
+                            Gasser</persName>, <persName>E. Konjuhaj</persName>, <persName>M. Nazifi</persName>, <persName>J. Roggen</persName>, <persName>J.
+                            Rubin</persName>, <persName>A. Schmoldt</persName> und <persName>A. Schubarth</persName> mit technischer Unterstützung durch das
+                            <ref target="https://dsl.unibe.ch/">Data Science Lab</ref> (P. Dängeli) und gefördert durch das Collegium Decanale der Universität
+                        Bern als <ref target="https://www.philhist.unibe.ch/ueber_uns/finanzielle_unterstuetzung/inspirierte_lehre/index_ger.html">Inspirierte
+                            Lehre</ref>.</note>
+                </edition>
+                <respStmt>
+                    <resp>Konzept und Leitung des Seminars, Verfassen des <ref target="/introduction/#a-vorstellung-des-textes">Einleitungsteils zur Vorstellung
+                            des Textes</ref> sowie Übersetzung und Kommentar der <ref target="/edition/#/ec/f019/f/f019/text">Verse 699-905</ref></resp>
+                    <name>Miriam Strieder</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Verfassen des <ref target="/introduction/#b-historischer-und-kultureller-kontext-der-navigatio-sancti-brendani">Einleitungsteils zum
+                            kulturellen und historischen Kontext</ref></resp>
+                    <name>Maximilian Frey</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Verfassen des <ref target="/introduction/#c-nachleben-der-navigatio-sancti-brendani-und-des-heiligen-brendans">Einleitungsteil zum
+                            Nachleben des Heiligen Brendan</ref></resp>
+                    <name>Marigona Nazifi</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Verfassen des <ref target="/introduction/#d-die">Einleitungsteils zur Entstehung der vorliegenden kommentierten
+                        Übersetzung</ref></resp>
+                    <name>Aurelia Schmoldt</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Übersetzung und Kommentar der <ref target="/edition/#/ec/f005/f/f005/text">Verse 73-279</ref></resp>
+                    <name>Joshua Rubin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Übersetzung und Kommentar der <ref target="/edition/#/ec/f010/f/f010/text">Verse 280-489</ref></resp>
+                    <name>Emilia Forster</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Übersetzung und Kommentar der <ref target="/edition/#/ec/f014/f/f014/text">Verse 490-698</ref></resp>
+                    <name>Nina Bruhin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Übersetzung und Kommentar der <ref target="/edition/#/ec/f023/f/f023/text">Verse 906-1112</ref></resp>
+                    <name>Enya Beuggert</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Übersetzung und Kommentar der <ref target="/edition/#/ec/f028/f/f028/text">Verse 1113-1321</ref></resp>
+                    <name>Edonita Konjuhaj</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Übersetzung und Kommentar, <ref target="/edition/#/ec/f032/f/f032/text">Verse 1322-1527</ref></resp>
+                    <name>Selina Gasser</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Übersetzung und Kommentar der <ref target="/edition/#/ec/f037/f/f037/text">Verse 1528-1732</ref></resp>
+                    <name>Joël Roggen</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Übersetzung und Kommentar der <ref target="/edition/#/ec/f041/f/f041/text">Verse 1733-1934</ref></resp>
+                    <name>Andrea Schubarth</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung und Bildbereitstellung</resp>
+                    <name>UB Bern</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenintegration, Anpassung EditionCrafter, digitale Publikation</resp>
+                    <name>Data Science Lab, Peter Dängeli</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitales Hosting &amp; Build</resp>
+                    <name>DSL GitHub repository: <ref target="https://dsl-unibe-ch/st-brendan">dsl-unibe-ch/st-brendan</ref></name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p/>
+                <publisher>Universität Bern</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <p/>
+                <p>Grundlage der hier kommentierten Übersetzung ist die Ausgabe: <bibl>
+                        <title>Sanct Brandan. Ein lateinischer und drei deutsche Texte</title>
+                        <author>Carl Schröder</author>
+                        <publisher>Besold</publisher>
+                        <date when="1871">1871</date>
+                        <idno>Schröder 1871</idno>
+                    </bibl>
+                </p>
+                <p>Fassung: Reisefassung M (spätmittelhochdeutsche Reimfassung; datiert ins 14. Jahrhundert)</p>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="2024-12-12">Präsentation im Rahmen der Vorlesungsreihe des Berner Mittelalterzentrum zum Thema »Reisen im Mittelalter«</date>
+                <date when="2025-10-31">Digital publication (brandans-meerfahrt.digitaleditions.ch)</date>
+            </creation>
+            <langUsage>
+                <language ident="de">Deutsch (moderne kommentierte Übersetzung)</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Die digitale Edition basiert auf einem TEI-Encoding, das Übersetzung und Kommentar enthält und die einzelnen Druckseiten über ein
+                    IIIF-Manifest mit den Digitalisaten in Bezug setzt. Zur Darstellung wurde die quelloffene Software EditionCrafter gewählt. Sie bietet einen
+                    guten und einfachen Rahmen für die Transformation der Transkriptionen und Rahmentexte in HTML-Ansichten. Für die St. Brendan-Edition wurde
+                    das Werkzeug im Bereich der Kommentierung so angepasst, dass sich Kommentare nutzungsfreundlicher anzeigen und verlinken lassen.</p>
+            </editorialDecl>
+        </encodingDesc>
     </teiHeader>
 
     <facsimile sameAs="https://iiif.ub.unibe.ch/presentation/v3/manifest/c215cfd9-3551-44c3-a420-80964b4faddb/">
