@@ -518,11 +518,7 @@
                 <ab> Druck von E. Th. Jacob in Erlangen. </ab>
                 <pb facs="#f003"/>
                 <ab>
-                    <list>
-                        <head>II.
-                            <lb/>St. Brendan</head>
-                        <item/>
-                    </list>
+                    <title>II.<lb/><lb/>St. Brendan</title>
                 </ab>
                 <pb facs="#f004"/>
                 <ab>
@@ -567,7 +563,7 @@
                     <lb/>der wurde Brendan genannt;
                     <lb/>geboren war er in Irland.<note n="19"><hi rend="bold">Jberne</hi>: Dieser Name von Irland wird in der griechischen und römischen
                         Tradition verwendet. Brendan gehört zu den zwölf Aposteln Irlands und ist in Tralee, im Südwesten Irlands, geboren. Zur Verwendung des
-                        Namens vgl. https://www.woerterbuchnetz.de/Meyers/Ivernĭa [25.11.2024]</note>
+                        Namens vgl. <ref target="https://www.woerterbuchnetz.de/Meyers/Ivernĭa">https://www.woerterbuchnetz.de/Meyers/Ivernĭa</ref> [25.11.2024]</note>
                     <lb/><anchor type="line-nr" n="20"/>Er diente Gott voller Hingabe
                     <lb/>und begann Wunder zu suchen
                     <lb/>in seltsamen<note n="21-22"><hi rend="bold">wunder/ selzênen</hi>: Jegliche Schöpfung Gottes hat ihre Berechtigung auf Erden und darf
@@ -591,7 +587,7 @@
                     <lb/>Er folgte den Büchern immer weiter
                     <lb/>bis er von seltsamen Dingen
                     <lb/>und sehr vielen wilden<note n="28"><hi rend="bold">wilde</hi>: hier im Sinne von »unbewohnt« und »unangebaut« zu verstehen. Vgl. dazu:
-                        https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=W03111 [25.11.2024]</note> Ländern erfuhr.
+                        <ref target="https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=W03111">https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=W03111</ref> [25.11.2024]</note> Ländern erfuhr.
                     <lb/>In den Büchern fand er da auch,
                     <lb/><anchor type="line-nr" n="30"/>dass eine Welt
                     <lb/>unter dieser Erde<note n="31"><hi rend="bold">eine werlt wêre sô/ gelegen under dirre erde</hi>: Es handelt sich hier um die Antipoden
@@ -851,7 +847,7 @@
                         von Aue finden. Im christlichen Mittelalter ist zudem der «Hubertus-Hirsch» bekannt. Der Heilige Hubertus ist heute Schutzpatron der
                         Jäger; zur Entstehungszeit der Reisefassung wurde auch der Heilige Eustachius noch als Schutzpatron der Jäger verehrt; beiden ist im
                         Zuge ihrer Bekehrung ein weißer Hirsch mit strahlendem Kruzifix erschienen. Vgl. zum Schutzpatron Hubertus: Arno Paffrath: <ref
-                            target="https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991088627269705501&amp;context=L&amp;vid=41SLSP_NETWORK:VU1_UNION&amp;lang=de&amp;search_scope=DN_and_CI&amp;adaptor=Local%20Search%20Engine&amp;tab=41SLSP_NETWORK&amp;query=any%2Ccontains%2Chubertus%20schutzpatron&amp;offset=0"
+                            target="https://www.deutsche-digitale-bibliothek.de/item/OBXK2ECT6X4YFLFSQXZPFSHVFMZQFLVL"
                             >Die Legende vom Heiligen Hubertus: ihre Entstehung und Bedeutung für die heutige Zeit und für die Hubertusfeiern; mit 13 Abb. auf
                             Taf. und den Regeln des Heiligen Hubertusordens von 1444</ref>. Hamburg/Berlin 1961.</note> glich.
                     <lb/>Überall brennend kam es herunter,
@@ -1685,7 +1681,7 @@
                     <lb/>da fing er einen Krach an,
                     <lb/>der nichtig und gemein war.
                     <lb/>So sprach des Teufels Bote:<note n="693"><hi rend="bold">tûvels bote</hi>: s. <ref target="/edition/?note=674#/ec/f018/f/f018/text"
-                            >ommentar zu V. 674</ref>. Es handelt sich hier um dieselbe Figur.</note>
+                            >Kommentar zu V. 674</ref>. Es handelt sich hier um dieselbe Figur.</note>
                     <lb/>«Wenn ich es wohl vor Gott wagte,
                     <lb/><anchor type="line-nr" n="695"/>du alter Mönch Brendan,
                     <lb/>dann hättest du eine schlimme Reise gemacht.
@@ -2034,7 +2030,7 @@
                     <lb/>Ruhe gewährt
                     <lb/><anchor type="line-nr" n="955"/>bis zur neunten Stunde<note n="955"><hi rend="bold">nône</hi>: Die neunte Stunde wird ab sechs Uhr
                         morgens gerechnet und bezeichnet die Mittagszeit. Vgl. <ref target="https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=N01316"
-                            >Wörterbuchnetz</ref> [14.12.2024]. Zur neunten Stunde starb Jesus laut Mar. 15,34.</note> des Sonntages:
+                            >Wör­ter­buch­netz</ref> [14.12.2024]. Zur neunten Stunde starb Jesus laut Mar. 15,34.</note> des Sonntages:
                     <lb/>Dann kamen viele hässliche Teufel </ab>
                 <pb facs="#f025"/>
                 <ab>
@@ -2879,9 +2875,9 @@
                 <ab>
                     <lb/>Über viele Meilen geschwind
                     <lb/>fuhren sie in Richtung Land.
-                    <lb/>Plötzlich aber verliessen sie die Winde,<note n="1458"><hi rend="bold">wichen in die winde sô: Diese Textstelle könnte auf die
+                    <lb/>Plötzlich aber verliessen sie die Winde,<note n="1458"><hi rend="bold">wichen in die winde sô</hi>: Diese Textstelle könnte auf die
                             Rossbreiten anspielen. Die Rossbreiten sind eine fast windstille Zone auf dem Meer, welche sich zwischen dem 25. und 35. Breitengrad
-                            befindet (Vgl. DWDS, Rossbreiten [19.12.2024]).</hi></note>
+                            befindet (Vgl. DWDS, <ref target="https://www.dwds.de/wb/Rossbreiten">Rossbreiten</ref> [19.12.2024]).</note>
                     <lb/>dass die Hitze ihnen zu schaffen machte,
                     <lb/><anchor type="line-nr" n="1460"/>sodass das Schiff keine Fahrt mehr machen konnte,
                     <lb/>weder segel- noch rudergetrieben.
@@ -2902,7 +2898,7 @@
                     <lb/>Sie hörten das Schreien und Jammern
                     <lb/><anchor type="line-nr" n="1475"/>von prächtigen Schranzen,<note n="1475"><hi rend="bold">schranzen</hi>: Hofschranzen sind Angehörige
                         der höfischen Gesellschaft und sollen dem Fürsten oder König schmeicheln und seine Interessen bedingungslos vertreten. Der Begriff wird
-                        oftmals abwertend verwendet und bedeutete ursprünglich „überflüssiger Wichtigtuer“ (Vgl. DWDS, <emph>Hofschranze</emph>
+                        oftmals abwertend verwendet und bedeutete ursprünglich „überflüssiger Wichtigtuer“ (Vgl. DWDS, <emph><ref target="https://www.dwds.de/wb/Hofschranze">Hofschranze</ref></emph>
                         [19.12.2024]).</note>
                     <lb/>sie hörten das Tanzen
                     <lb/>von Männern und Frauen.
@@ -2911,15 +2907,15 @@
                     <lb/><anchor type="line-nr" n="1480"/>Dieses Wunder weckte ihr Interesse sehr,
                     <lb/>weil sie ihnen so nah waren,
                     <lb/>aber nichts Offensichtliches sahen
-                    <lb/>ausser dem Himmel und dem Wasser.<note n="1470-1483"><hi rend="bold">V. 1470-1483: Hier scheint es sich um eine akustische Täuschung zu
+                    <lb/>ausser dem Himmel und dem Wasser.<note n="1470-1483"><hi rend="bold">V. 1470-1483</hi>: Hier scheint es sich um eine akustische Täuschung zu
                             handeln, die durch einen Wind von Land, der Geräusche von dort weit auf See hörbar macht, hervorgerufen wird. Brendan und seine
                             Gefährten können das Land hinter dem Horizont nicht sehen, sondern nur hören. Zugleich könnte es sich aber auch um eine Anspielung
                             auf die Erzählung von Bran mac Febail (<emph>Immram Brain</emph>) handeln, der ebenfalls über Wasser segelt und dabei dem Meeresgott
                             begegnet, der ihm erklärt, dass seine Wahrnehmung der Umgebung nur eine Frage der Perspektive ist, da für den Meeresgott selbst sich
-                            das Wasser als üppig grünes Land voller Leben darstellt.</hi></note>
+                            das Wasser als üppig grünes Land voller Leben darstellt.</note>
                     <lb/>«Das ist uns ein Makel”,<note n="1484"><hi rend="bold">Schimel</hi>: Das Wort „Schimel“ wird mit „Makel“ übersetzt, um den Vers
                         verständlicher zu gestalten. Beide Wörter tragen die Bedeutung von „etwas wird durch einen Fehler oder Umstand abgewertet“ (Vgl. DWDS,
-                            <emph>Schimmel</emph> und <emph>Makel</emph> [19.12.2024]). U.U. könnte hier auch eine Verschreibung vorliegen, sodass ursprünglich
+                        <emph><ref target="https://www.dwds.de/wb/Schimmel">Schimmel</ref></emph> und <emph><ref target="https://www.dwds.de/wb/Makel">Makel</ref></emph> [19.12.2024]). U.U. könnte hier auch eine Verschreibung vorliegen, sodass ursprünglich
                         die <emph>schimêre</emph> als Trugbild gemeint war.</note>
                     <lb/><anchor type="line-nr" n="1485"/>sprach Sankt Brendan.
                     <lb/>«Lasst uns das Boot wieder
@@ -2930,10 +2926,10 @@
                     <lb/>dass er ihnen das Beste zeigen würde.
                     <lb/>Die elenden Fremden
                     <lb/>kamen darin überein,
-                    <lb/>dass sie das Senkblei<note n="1494"><hi rend="bold">Sinkelstein: Das Senkblei, auch genannt Lot, wird in der Schifffahrt dazu genutzt,
+                    <lb/>dass sie das Senkblei<note n="1494"><hi rend="bold">Sinkelstein</hi>: Das Senkblei, auch genannt Lot, wird in der Schifffahrt dazu genutzt,
                             die Wassertiefe und die Geschwindigkeit zu messen. Es besteht aus einem Gewicht, meistens aus Blei, und einer langen Schnur. Die
                             Verwendung eines Lots ist schon seit der Antike bekannt. Vgl. DWDS, <emph><ref target="https://www.dwds.de/wb/Senkblei"
-                                    >Senkblei</ref></emph> und <emph><ref target="https://www.dwds.de/wb/Lot">Lot</ref></emph> [19.12.202].</hi></note>
+                                    >Senkblei</ref></emph> und <emph><ref target="https://www.dwds.de/wb/Lot">Lot</ref></emph> [19.12.202].</note>
                     auswerfen wollten,
                     <lb/><anchor type="line-nr" n="1495"/>um zu sehen, wie tief das Wasser war:
                     <lb/>Der Sinkelstein war schwer
@@ -3359,11 +3355,7 @@
                             target="https://www.jstage.jst.go.jp/article/jggks/1/0/1_159/_pdf/-char/en"
                             >https://www.jstage.jst.go.jp/article/jggks/1/0/1_159/_pdf/-char/en</ref> [18.12.2024]</note>
                     <lb/>er sollte über das Recht wachen.
-                    <lb/>Der Glanz seiner Kleidung,<note n="1779"><hi rend="bold">stûchen</hi>: Mit mhd. <emph>stûche</emph> bezeichnet man in der Regel ein
-                        Stück Frauenkleidung, nämlich den weiten, lose herabfallenden Ärmel des Überkleides, der über den engen, festgeschnürten Unterärmel
-                        geht, und der in der späteren Zeit oft nicht festgenäht, sondern nur angeschnürt und daher abtrennbar ist. Später wird der Ausdruck auch
-                        für Männerkleidung verwendet. vgl. <ref target="https://www.dwds.de/wb/dwb/stauchen">https://www.dwds.de/wb/dwb/stauchen</ref>
-                        [12.12.2024].</note>
+                    <lb/>Der Glanz seiner Kleidung,
                     <lb/><anchor type="line-nr" n="1780"/>die er trug, war ganz rein:
                     <lb/>Der Mantel war aus einem edlen Seidengewand,
                     <lb/>darauf war ein Zobel kunstvoll verarbeitet,<note n="1782"><hi rend="bold">darûf ein zobel wol bewant</hi>: Pelze wie Hermelin, Mader
@@ -3409,7 +3401,11 @@
                     <lb/>einen Pelz aus Hermelin,<note n="1797"><hi rend="bold">einen pelz von hermelîn</hi>: s. <ref
                             target="/edition/?note=1782#/ec/f042/f/f042/text">Kommentar zu V. 1782</ref></note>
                     <lb/>so gut gearbeitet, wie es nur sein konnte.
-                    <lb/>Über den weit geschnittenen <hi rend="italic">stûchen</hi>
+                    <lb/>Über den weit geschnittenen <hi rend="italic">stûchen</hi><note n="1799"><hi rend="bold">stûchen</hi>: Mit mhd. <emph>stûche</emph> bezeichnet man in der Regel ein
+                        Stück Frauenkleidung, nämlich den weiten, lose herabfallenden Ärmel des Überkleides, der über den engen, festgeschnürten Unterärmel
+                        geht, und der in der späteren Zeit oft nicht festgenäht, sondern nur angeschnürt und daher abtrennbar ist. Später wird der Ausdruck auch
+                        für Männerkleidung verwendet. vgl. <ref target="https://www.dwds.de/wb/dwb/stauchen">https://www.dwds.de/wb/dwb/stauchen</ref>
+                        [12.12.2024].</note>
                     <lb/><anchor type="line-nr" n="1800"/>war ein Gewand aus Samt,
                     <lb/>geschmückt mit schönen Bildern,
                     <lb/>wie kein Meister es
