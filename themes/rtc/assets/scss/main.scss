@@ -43,7 +43,16 @@ tei-anchor::before {
 
 /* Note: Original red asterisk styles are now overridden by notes-drawer.scss */
 
+/* offset to scroll under fixed header */
+:root {
+  --site-header-offset: 140px;
+}
 
+/* targets of in-page links */
+:target,
+:target * {
+  scroll-margin-top: var(--site-header-offset) !important;
+}
 
 
 /* Logo + title inline layout */

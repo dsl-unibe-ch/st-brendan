@@ -57,7 +57,7 @@ Illustrationen attraktiv und relevant gehalten[^1], sodass er bis ins
 17. Jahrhundert hinein gedruckt wird und zugleich Wissen über Gottes
 Schöpfung und die Bibel anschaulich und unterhaltsam vermittelt[^2].
 
-Inhalt
+#### Inhalt
 
 Die sog. Reisefassung der *Navigatio Sancti Brendani,* auch bekannt als 
 *Brandans Meerfahrt,* unterscheidet sich von dieser insbesondere durch
