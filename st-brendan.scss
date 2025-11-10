@@ -1,6 +1,8 @@
 /* ========== St. Brendan ==================== */
 
-.note-content {
+.note-content,
+.note-content a,
+.note-content emph {
   word-wrap: break-word;
   word-break: break-word;
 }
