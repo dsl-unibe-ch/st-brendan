@@ -847,7 +847,8 @@ Prüfungsleistung von den Teilnehmer\*innen anzufertigen waren. Darin
 legten wir neben den allgemeinen Formalia auch fest, dass in unserer
 Übersetzung bestimmte mittelhochdeutsche Fachbegriffe kursiv
 gekennzeichnet und anschliessend in einem Kommentar näher erläutert
-werden, beispielsweise das Wort «strûchen» in V. 1799.
+werden, beispielsweise das Wort «strûchen» in 
+[V. 1799](/edition/?note=1799#/ec/f043/f/f043/text).
 
 Um eine stimmige und verständliche Übersetzung bieten zu können, war des
 Weiteren eine Abweichung von der Interpunktion, die Schröder gesetzt
@@ -862,8 +863,9 @@ zu erwähnen, dass so wie bei allen Editionen mittelalterlicher
 Handschriften die Interpunktion nicht als statisches Element angesehen
 wird und je nach Bearbeiter\*in des Textes variiert.[^69] Wie diese
 Abänderung der Interpunktion aussieht, wird anhand des folgenden
-Beispiels erläutert. In den ersten 16 Versen der *Meerfahrt* erwähnt der
-Erzähler eine Geschichte aus der Bibel:
+Beispiels erläutert. 
+[In den ersten 16 Versen der *Meerfahrt*](/edition/#/ec/f004/f/f004/text) 
+erwähnt der Erzähler eine Geschichte aus der Bibel:
 
 > Der heilige geist durch sîne gûte,
 > 
@@ -897,10 +899,11 @@ Erzähler eine Geschichte aus der Bibel:
 
 Wir entschieden uns, nach dem im Zitat unterstrichenen Wort einen
 Doppelpunkt einzusetzen, da sich die Stelle während des Lesens als
-holprig erwies. Ein weiterer Interpunktionsentscheid fiel in V.4 
-der *Meerfahrt*, in dem wir den mittelhochdeutschen Teilsatz «Crist erlûhte
-mînes herzen ougen» wie folgt übersetzten: «Christus erleuchte meines
-Herzens Sicht»[^72](Ebd.). Dazu wurde ein Kommentar verfasst, in dem unsere
+holprig erwies. Ein weiterer Interpunktionsentscheid fiel in 
+[V. 4](/edition/#/ec/f004/f/f004/text) der *Meerfahrt*, in dem wir 
+den mittelhochdeutschen Teilsatz «Crist erlûhte mînes herzen ougen» 
+wie folgt übersetzten: «Christus erleuchte meines Herzens 
+Sicht»[^72](Ebd.). Dazu wurde ein Kommentar verfasst, in dem unsere
 editorischen Entscheidungen festgehalten und Alternativen dazu
 aufgezeigt wurden.
 
@@ -910,9 +913,9 @@ Während sich eine Präsentationsgruppe ihren Vortragsthemen, die zu
 Kursbeginn als Einstieg kurz thematisiert worden waren, widmeten, begann
 die Übersetzungsgruppe mit dem Übersetzen ihre Versabschnitte. Während
 des Übersetzungsprozesses wurden stets gemeinsam Formalitäten
-festgelegt. Dies Form der Zusammenarbeit sorgte für ein einheitliches
+festgelegt. Diese Form der Zusammenarbeit sorgte für ein einheitliches
 Vorgehen und Gestalten der Übersetzungen. Am Ende der Übersetzung sollen
-die Texte via Peer-review Verfahren und durch Frau Strieder nochmals
+die Texte via Peer-review-Verfahren und durch Frau Strieder nochmals
 kontrolliert, überarbeitet und angeglichen werden, um eine stimmige
 Edition zu gewährleisten.
 
@@ -927,7 +930,8 @@ Die unterschiedlichen Kommentare wurden ebenfalls aus Zeit- und
 Effizienzgründen auf die Kursteilnehmer\*innen verteilt. In der
 gemeinsam erarbeiteten Wissenssammlung wurden schliesslich die
 unterschiedlichen Anmerkungen zum Text festgehalten. Der erste gemeinsam
-festgelegte Kommentar befand sich bereits in V. 1 der *Meerfahrt*. Der
+festgelegte Kommentar befand sich bereits in 
+[V. 1](/edition/?note=1_1#/ec/f004/f/f004/text) der *Meerfahrt*. Der
 Erzähler erwähnt das «herre». Da vermutlich nicht jeder Rezipierende
 sofort beim Lesen darauf schliesst, dass mit diesem Wort auch ein
 Standesunterschied impliziert wird, ergänzten wir hier die nötigen
@@ -941,8 +945,9 @@ zusammenhängende Kommentare, um die Auseinandersetzung des Rezipierenden
 mit dem Text zu fördern. Kommentar und Übersetzung werden so zu einem
 sich ergänzenden organischen Konstrukt, in dem Zusammenhänge klar
 aufgezeigt werden. Somit sahen diese zusammenhängenden Kommentare wie
-folgt aus: «**V. 12: Balam**: auch Bileam genannt, ist der blinde Herr
-der Eselin. S. Kommentar zu V. 7.»
+folgt aus: «[**V. 12: Balam**](/edition/?note=12#/ec/f004/f/f004/text): 
+auch Bileam genannt, ist der blinde Herr der Eselin. S. 
+[Kommentar zu V. 7](/edition/?note=7#/ec/f004/f/f004/text).»
 
 ### Herausforderungen
 
@@ -961,7 +966,8 @@ auftauchende Schwierigkeit war, das passendste neuhochdeutsche Wort zu
 finden. Für eine länger andauernde Diskussion während dem gemeinsamen
 Übersetzen sorgte vor allem die Stelle, in dem der Wal, auf dessen
 Rücken Brendan mit seinen Gefährten landet, das erste Mal auftauchte.
-Das Mittelhochdeutsche Wort 'swarte' aus V. 37 der *Meerfahrt* stand bei
+Das Mittelhochdeutsche Wort 'swarte' aus 
+[V. 37](/edition/?note=12#/ec/f005/f/f005/text) der *Meerfahrt* stand bei
 der Beschreibung des Wals. Dieses Wort kann unterschiedliche Bedeutungen
 haben. Das *Mittelhochdeutsche Handwörterbuch* von Matthias Lexer
 schlägt folgende Übersetzungsmöglichkeiten vor: behaarte Kopfhaut,
