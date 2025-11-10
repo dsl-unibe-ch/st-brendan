@@ -1,6 +1,6 @@
 /**
  * Interactive Notes Drawer for EditionCrafter - v2.8
- * Fixed base path for GitHub Pages deployment
+ * Updated hover-stability
  */
 
 (function() {
@@ -21,7 +21,7 @@
         }
 
         init() {
-            console.log('=== Notes Drawer Init v2.8 ===');
+            console.log('=== Notes Drawer Init v2.8 (hover-stable) ===');
             
             this.createDrawer();
             this.attachGlobalListeners();
@@ -146,6 +146,9 @@
                 marker.classList.remove('note-marker-enhanced');
                 marker.classList.remove('active');
                 marker.removeAttribute('data-note-key');
+                marker.removeAttribute('data-note-id');
+                // preserve the original element content if EditionCrafter expects it;
+                // here we won't try to restore original textContent to avoid surprises.
             });
         }
 
@@ -384,6 +387,85 @@
             
             document.body.appendChild(this.drawer);
             console.log('✓ Drawer created');
+
+            // Inject CSS for stable markers (only once)
+            if (!document.getElementById('notes-drawer-styles')) {
+                const css = `
+/* Notes Drawer: stable inline markers */
+.note-marker-enhanced {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+/*  width: 1.15em;
+  height: 1.15em; */
+  padding: 0 4px;
+  margin: 0 0.08em;
+  color: #792421;
+  cursor: pointer;
+  vertical-align: baseline;
+  user-select: none;
+  transition: transform .12s ease, color .12s ease;
+  box-sizing: content-box;
+  border-radius: 3px;
+  line-height: 1;
+}
+
+/* the small centered dot that remains visible */
+.note-marker-enhanced .marker-dot {
+  display: inline-block;
+  font-size: 1.05em;
+  line-height: 1;
+  transform-origin: center;
+}
+
+/* the numeric label shown on hover/active - absolutely positioned, out of flow */
+.note-marker-enhanced .marker-num {
+  position: absolute;
+  left: 50%;
+  top: 0%;
+  transform: translate(-50%, -50%) scale(0.98);
+  background: rgba(255,255,255,0.98);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.75em;
+  white-space: nowrap;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .12s ease, transform .12s ease;
+  z-index: 40;
+}
+
+/* show the numeric label on hover or when active */
+.note-marker-enhanced:hover .marker-num,
+.note-marker-enhanced.active .marker-num {
+  opacity: 1;
+  transform: translate(-50%, -120%) scale(1);
+}
+
+/* subtle lift on hover */
+.note-marker-enhanced:hover {
+  transform: translateY(-2px);
+}
+
+/* active state (when drawer selects it) */
+.note-marker-enhanced.active {
+  background: rgba(121,36,33,0.06);
+  box-shadow: 0 2px 8px rgba(121,36,33,0.06);
+}
+
+/* ensure tooltips from EC are hidden */
+div[role="tooltip"] { display: none !important; }
+
+/* prevent layout shifts when drawer toggles scrollbar */
+html { scrollbar-gutter: stable; }
+                `;
+                const style = document.createElement('style');
+                style.id = 'notes-drawer-styles';
+                style.textContent = css;
+                document.head.appendChild(style);
+            }
         }
 
         updateDrawer() {
@@ -407,8 +489,8 @@
                 item.setAttribute('data-note-key', note.uniqueKey);
                 item.setAttribute('data-note-id', note.id);
                 
-                const displayId = note.isDuplicate 
-                    ? `${this.formatId(note.id)} (dup)` 
+                const displayId = note.isDuplicate
+                    ? `${this.formatId(note.id)} (dup)`
                     : this.formatId(note.id);
                 
                 item.innerHTML = `
@@ -638,16 +720,26 @@
             marker.setAttribute('data-note-id', note.id);
             marker.setAttribute('title', this.formatId(note.id));
             marker.classList.add('note-marker-enhanced');
-            marker.textContent = '·';
-            
-            marker.style.cssText = `
-                color: #792421 !important;
-                font-size: 1.5em !important;
-                cursor: pointer !important;
-                padding: 0 2px !important;
-                background: none !important;
-                vertical-align: baseline !important;
-            `;
+
+            // Replace the marker's content with a stable structure:
+            // a dot (always visible) and a hidden numeric label that is absolutely positioned.
+            try {
+                marker.innerHTML = '';
+                const dot = document.createElement('span');
+                dot.className = 'marker-dot';
+                dot.textContent = '·';
+
+                const num = document.createElement('span');
+                num.className = 'marker-num';
+                num.setAttribute('aria-hidden', 'true');
+                num.textContent = this.formatId(note.id);
+
+                marker.appendChild(dot);
+                marker.appendChild(num);
+            } catch (err) {
+                // fallback: if innerHTML replacement fails, keep original behaviour minimally
+                marker.textContent = this.formatId(note.id);
+            }
         }
 
         hideTooltips() {
@@ -694,28 +786,12 @@
                     this.clearHighlights();
                 }
             }, true);
-            
-            document.addEventListener('mouseover', (e) => {
-                const marker = e.target.closest('.note-marker-enhanced');
-                if (marker && !marker.classList.contains('active')) {
-                    const noteKey = marker.getAttribute('data-note-key');
-                    const note = this.notesData.find(n => n.uniqueKey === noteKey);
-                    if (note) {
-                        marker.textContent = this.formatId(note.id);
-                        marker.style.fontSize = '0.75em';
-                        marker.style.verticalAlign = 'super';
-                    }
-                }
-            });
-            
-            document.addEventListener('mouseout', (e) => {
-                const marker = e.target.closest('.note-marker-enhanced');
-                if (marker && !marker.classList.contains('active')) {
-                    marker.textContent = '·';
-                    marker.style.fontSize = '1.5em';
-                    marker.style.verticalAlign = 'baseline';
-                }
-            });
+
+            // NOTE: removed the old mouseover/mouseout logic that swapped textContent and font-sizes.
+            // That behaviour caused element-size changes, which in turn triggered mouseout/mouseover
+            // repeatedly and produced the jittery effect.
+            //
+            // Hover and active visuals are now handled purely by CSS (see injected styles).
         }
 
         toggleDrawer() {
@@ -734,9 +810,7 @@
             
             if (markerElement) {
                 markerElement.classList.add('active');
-                markerElement.textContent = this.formatId(note.id);
-                markerElement.style.fontSize = '0.75em';
-                markerElement.style.verticalAlign = 'super';
+                // Do not change textContent or font-size – CSS shows the numeric label.
             }
             
             const noteItem = this.drawer.querySelector(`.note-item[data-note-key="${noteKey}"]`);
@@ -768,9 +842,7 @@
                 this.updateURLWithNote(noteKey, true);
                 
                 note.markerElement.classList.add('active');
-                note.markerElement.textContent = this.formatId(note.id);
-                note.markerElement.style.fontSize = '0.75em';
-                note.markerElement.style.verticalAlign = 'super';
+                // UI shown by CSS; no direct text/font changes
                 
                 const rect = note.markerElement.getBoundingClientRect();
                 window.scrollTo({
@@ -783,9 +855,7 @@
         clearHighlights() {
             document.querySelectorAll('.note-marker-enhanced.active').forEach(m => {
                 m.classList.remove('active');
-                m.textContent = '·';
-                m.style.fontSize = '1.5em';
-                m.style.verticalAlign = 'baseline';
+                // keep inner structure intact
             });
             
             document.querySelectorAll('.note-item.active').forEach(i => {
