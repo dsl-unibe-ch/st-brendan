@@ -51,6 +51,9 @@ weight: 30
 
 Die digitale Edition basiert auf einem TEI-Encoding, das Übersetzung und Kommentar enthält und die einzelnen Druckseiten über ein IIIF-Manifest mit den Digitalisaten in Bezug setzt. Zur Darstellung wurde die quelloffene Software EditionCrafter gewählt. Sie bietet einen guten und einfachen Rahmen für die Transformation der Transkriptionen und Rahmentexte in HTML-Ansichten. Für die St. Brendan-Edition wurde das Werkzeug im Bereich der Kommentierung so angepasst, dass sich Kommentare nutzungsfreundlicher anzeigen und verlinken lassen.
 
+* TEI-Encoding: [`st-brendan.xml`](/edition/st-brendan/tei/index.xml)
+* Code- und Datenrepository: [`@dsl-unibe-ch/st-brendan`](https://github.com/dsl-unibe-ch/st-brendan)
+
 ---
 
 ## Veranstaltungshinweis
