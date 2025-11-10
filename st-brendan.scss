@@ -194,6 +194,12 @@ tei-choice {
     }
 }
 
+tei-link[type='subscribers-only'] {
+    &:after {
+        content: ' (Zugriffsberechtigung erforderlich) 🔐';
+    }
+}
+
 // Manuscript line numbers (anchors)
 tei-anchor[type='line-nr'] {
     &:before {
